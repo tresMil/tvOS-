@@ -1,0 +1,1832 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="CANALES HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="CANALES HD",CANALES HD
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-lasestrellas.png" group-title="CANALES HD",Las Estrellas FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-canal5.png" group-title="CANALES HD",Canal 5 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 13 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-aztecauno.png" group-title="CANALES HD",Azteca 13 (Uno) FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-azteca7.png" group-title="CANALES HD",Azteca 7 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Televisión FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-imagentv.png" group-title="CANALES HD",Imagen Televisión FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10064.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tnt.png" group-title="CANALES HD",TNT FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverychannel.png" group-title="CANALES HD",Discovery Channel FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryhyh.png" group-title="CANALES HD",Discovery Home & Health FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telehit FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-telehitplus.png" group-title="CANALES HD",Telehit FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10042.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mtv.png" group-title="CANALES HD",MTV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10060.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxpremium.png" group-title="CANALES HD",FOX SPORTS PREMIUM HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-galatv.png" group-title="CANALES HD",Gala TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-cartoonnetwork.png" group-title="CANALES HD",Cartoon Network FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10123.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-univision.png" group-title="CANALES HD",UNIVISION HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4251.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-telemundo.png" group-title="CANALES HD",TELEMUNDO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4256.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema FHD" tvg-logo="https://image.prntscr.com/image/sMXQDKegQyGvULr89nlw7g.png" group-title="CANALES HD",PPV: Cinema FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10957.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinemax East FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1624.png" group-title="CANALES HD",PPV: Cinemax East FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10955.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: IndiePlex FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9136.png" group-title="CANALES HD",PPV: IndiePlex FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10954.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: RetroPlex FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3850.png" group-title="CANALES HD",PPV: RetroPlex FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10953.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Showtime FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9524.png" group-title="CANALES HD",PPV: Showtime FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10952.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: SHOWTIME FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1616.png" group-title="CANALES HD",PPV:  SHOWTIME FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10951.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz in Black FHD" tvg-logo="https://image.prntscr.com/image/hrQNvmNcQEmFzqDoxlRDqQ.png" group-title="CANALES HD",PPV: Starz in Black FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10950.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Cinema FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6600.png" group-title="CANALES HD",PPV: Starz Cinema FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10949.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Comedy HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7332.png" group-title="CANALES HD",PPV: Starz Comedy HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10948.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz East FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7433.png" group-title="CANALES HD",PPV: Starz East FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10946.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Edge FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6078.png" group-title="CANALES HD",PPV: Starz Edge FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10945.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Encore FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8891.png" group-title="CANALES HD",PPV: Starz Encore FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10944.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Encore Action FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6854.png" group-title="CANALES HD",PPV: Starz Encore Action FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10943.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Encore Black FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2940.png" group-title="CANALES HD",PPV: Starz Encore Black FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10942.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Encore Classic FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2823.png" group-title="CANALES HD",PPV: Starz Encore Classic FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10941.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Kids & Family FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3691.png" group-title="CANALES HD",PPV: Starz Kids & Family FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10937.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz West FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8520.png" group-title="CANALES HD",PPV: Starz West FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10936.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Showtime West HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4679.png" group-title="CANALES HD",PPV: Showtime West HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10935.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-baby.png" group-title="CANALES HD",BABY TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-beinsports.png" group-title="CANALES HD",Bein Sports HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4966.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SONY HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-canalsony.png" group-title="CANALES HD",CINE SONY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5941.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fightnetwork.png" group-title="CANALES HD",FIGHT NETWORK HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4266.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports.png" group-title="CANALES HD",FOX DEPORTES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4972.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-goltv.png" group-title="CANALES HD",GOL TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4265.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5443.png" group-title="CANALES HD",NAT GEO MUNDO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4973.ts
+#EXTINF:-1 tvg-id="" tvg-name="UniMas HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-unimas.png" group-title="CANALES HD",UniMas HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4252.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DEPORTES HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-univisiondeportes.png" group-title="CANALES HD",UNIVISION DEPORTES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4280.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-aye.png" group-title="CANALES HD",A&E FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10127.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3S FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-a3s.png" group-title="CANALES HD",A3S FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10129.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-amc.png" group-title="CANALES HD",AMC FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-animalplanet.png" group-title="CANALES HD",Animal Planet FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10130.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-axn.png" group-title="CANALES HD",AXN FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Cinema FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-aztecacinema.png" group-title="CANALES HD",Az Cinema FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Clic FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-azclic.png" group-title="CANALES HD",Az Clic FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Corazón FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7937.png" group-title="CANALES HD",Az Corazón FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-azmundo.png" group-title="CANALES HD",Az Mundo FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-aztecainternacional.png" group-title="CANALES HD",Azteca Internacional FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby First FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-baby.png" group-title="CANALES HD",Baby First FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7131.png" group-title="CANALES HD",Bloomberg FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-bloomerang.png" group-title="CANALES HD",Boomerang FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-cinecanal.png" group-title="CANALES HD",Cinecanal FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-cinemax.png" group-title="CANALES HD",Cinemax FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-comedycentral.png" group-title="CANALES HD",Comedy Central FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10114.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-dhe.png" group-title="CANALES HD",DHE FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverychannel.png" group-title="CANALES HD",Discovery Channel FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryhyh.png" group-title="CANALES HD",Discovery Home & Health FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryinv.png" group-title="CANALES HD",Discovery Investigation FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverykids.png" group-title="CANALES HD",Discovery Kids FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryt.png" group-title="CANALES HD",Discovery Theater FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverytlc.png" group-title="CANALES HD",Discovery TLC FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryturbo.png" group-title="CANALES HD",Discovery Turbo FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="http://tvpremiumhd.com/channels/img/tv-discoveryworld.png" group-title="CANALES HD",Discovery World FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia HQ" tvg-logo="http://tvpremiumhd.com/channels/img/tv-distritocomedia.png" group-title="CANALES HD",Distrito Comedia HQ
+http://tvpremiumhd.com/lista-gratuita/psi2/10237.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-i.png" group-title="CANALES HD",E! FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10096.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-gourmet.png" group-title="CANALES HD",El Gourmet FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10095.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-espn.png" group-title="CANALES HD",ESPN FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10094.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-espnplus.png" group-title="CANALES HD",ESPN Plus FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10093.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes FHD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4641.png" group-title="CANALES HD",ESPN Deportes FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10927.ts
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-forotv.png" group-title="CANALES HD",Foro TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10085.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fox.png" group-title="CANALES HD",FOX FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxlife.png" group-title="CANALES HD",Fox Life FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10084.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxaction.png" group-title="CANALES HD",Fox Premium Action FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Movies FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxpmovies.png" group-title="CANALES HD",Fox Premium Movies FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxseries.png" group-title="CANALES HD",Fox Premium Series FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports.png" group-title="CANALES HD",Fox Sports 1 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports2.png" group-title="CANALES HD",Fox Sports 2 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports3.png" group-title="CANALES HD",Fox Sports 3 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10078.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fx.png" group-title="CANALES HD",FX FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10075.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fxm.png" group-title="CANALES HD",FXM FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-golden.png" group-title="CANALES HD",Golden HD FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Latin America FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-golf.png" group-title="CANALES HD",Golf Latin America FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10074.ts
+#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-history.png" group-title="CANALES HD",History FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-holatv.png" group-title="CANALES HD",Hola TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-lifetime.png" group-title="CANALES HD",Lifetime FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Más Chic FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-maschic.png" group-title="CANALES HD",Más Chic FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mileniotv.png" group-title="CANALES HD",Milenio TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10056.ts
+#EXTINF:-1 tvg-id="" tvg-name="Morbid TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-morbidotv.png" group-title="CANALES HD",Morbid TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10239.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mtv.png" group-title="CANALES HD",MTV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10060.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mtvlive.png" group-title="CANALES HD",MTV Live FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-multimedios.png" group-title="CANALES HD",Multimedios FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-multimediosplus.png" group-title="CANALES HD",Multimedios Plus FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-natgeokits.png" group-title="CANALES HD",Natgeo Kids FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-natgeowild.png" group-title="CANALES HD",Natgeo Wild FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-nick2.png" group-title="CANALES HD",Nick 2 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-nick.png" group-title="CANALES HD",Nickelodeon FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Once TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-once.png" group-title="CANALES HD",Once TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-paramound.png" group-title="CANALES HD",Paramount FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Px Sports FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-pxsports.png" group-title="CANALES HD",Px Sports FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-canalsony.png" group-title="CANALES HD",Sony FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-space.png" group-title="CANALES HD",Space FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-studiouniversal.png" group-title="CANALES HD",Studio Universal FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-sundancetv.png" group-title="CANALES HD",Sundance FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-syfy.png" group-title="CANALES HD",Syfy FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Los Angeles HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-telemundo.png" group-title="CANALES HD",Telemundo Los Angeles HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10911.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-televisamty.png" group-title="CANALES HD",Televisa MTY FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Puebla FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-televisapuebla.png" group-title="CANALES HD",Televisa Puebla FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10039.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tnt.png" group-title="CANALES HD",TNT FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10036.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tntseries.png" group-title="CANALES HD",TNT Series FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-trutv.png" group-title="CANALES HD",Tru TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10034.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tvc.png" group-title="CANALES HD",TVC Deportes FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10241.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tvcnetworks.png" group-title="CANALES HD",TVC FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unicable FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-unicable.png" group-title="CANALES HD",Unicable FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-universalchannel.png" group-title="CANALES HD",Universal Channel FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10038.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-vh1.png" group-title="CANALES HD",VH1 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-warner.png" group-title="CANALES HD",Warner Channel FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10033.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8641.png" group-title="CANALES HD",DE PELICULA HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10960.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9213.png" group-title="CANALES HD",KOMBAT SPORT
+http://tvpremiumhd.com/lista-gratuita/psi2/10959.ts
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3382.png" group-title="CANALES HD",TyC Sports HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10958.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORT" tvg-logo="http://tvpremiumhd.com/channels/img/hd-cnt.png" group-title="CANALES HD",CNT SPORT
+http://tvpremiumhd.com/lista-gratuita/psi2/10111.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://tvpremiumhd.com/channels/img/hd-comedycentral.png" group-title="CANALES HD",COMEDY CENTRAL
+http://tvpremiumhd.com/lista-gratuita/psi2/10110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9251.png" group-title="CANALES HD",Directv Sports HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1087.png" group-title="CANALES HD",Directv Sports 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8651.png" group-title="CANALES HD",Directv Sports + HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10106.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9037.png" group-title="CANALES HD",NAT GEO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10097.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverychannel.png" group-title="CANALES HD",DISNEY CHANEL HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10097.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-goldenpremier.png" group-title="CANALES HD",GOLDEN PREMIER HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10072.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2679.png" group-title="CANALES HD",Golden Premier 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10113.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hbo.png" group-title="CANALES HD",HBO
+http://tvpremiumhd.com/lista-gratuita/psi2/10070.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hbo2.png" group-title="CANALES HD",HBO 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10069.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hboplus.png" group-title="CANALES HD",HBO PLUS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10068.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hbosignature.png" group-title="CANALES HD",HBO SIGNATURE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10067.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6832.png" group-title="CANALES HD",HBO Family HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10112.ts
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="http://tvpremiumhd.com/channels/img/hd-htv.png" group-title="CANALES HD",HTV
+http://tvpremiumhd.com/lista-gratuita/psi2/10065.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX PRIME" tvg-logo="http://tvpremiumhd.com/channels/img/hd-max.png" group-title="CANALES HD",MAX PRIME
+http://tvpremiumhd.com/lista-gratuita/psi2/10063.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://tvpremiumhd.com/channels/img/hd-maxup.png" group-title="CANALES HD",MAX UP
+http://tvpremiumhd.com/lista-gratuita/psi2/10062.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tntsports.png" group-title="CANALES HD",TNT SPORT HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10043.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9160.png" group-title="CANALES HD",UFC NETWORK HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10041.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mtvlive.png" group-title="CANALES HD",MTV LIVE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4281.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tnt.png" group-title="CANALES HD",TNT HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4963.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNICABLE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-unicable.png" group-title="CANALES HD",UNICABLE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/4253.ts
+#EXTINF:-1 tvg-id="" tvg-name="►►● Canales HD 720P ●◄◄" tvg-logo="" group-title="CANALES HD",►►● Canales HD 720 ●◄◄
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-amc.png" group-title="CANALES HD",AMC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11745.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-axn.png" group-title="CANALES HD",AXN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11744.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-azmundo.png" group-title="CANALES HD",AZ MUNDO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11743.ts
+#EXTINF:-1 tvg-id="" tvg-name="CABLE NOTICIAS HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2013.png" group-title="CANALES HD",CABLE NOTICIAS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11661.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CLARO HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7014.png" group-title="CANALES HD",CANAL CLAROHD HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11659.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-cinecanal.png" group-title="CANALES HD",CINECANAL HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11740.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT TV HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8175.png" group-title="CANALES HD",CLARO CONCERT HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11655.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS LATAM HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3377.png" group-title="CANALES HD",CLARO SPORTS LATAM HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11686.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORT 2" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3377.png" group-title="CANALES HD",CLARO SPORT 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11687.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-comedycentral.png" group-title="CANALES HD",COMEDY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11736.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8641.png" group-title="CANALES HD",DE PELICULA HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11735.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverychannel.png" group-title="CANALES HD",DISCOVERY CHANNEL HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11734.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HH HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryhyh.png" group-title="CANALES HD",DISCOVERY HH HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11732.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryinv.png" group-title="CANALES HD",DISCOVERY ID HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11731.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDSHD HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoverykids.png" group-title="CANALES HD",DISCOVERY KIDS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11672.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATHER HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-discoveryt.png" group-title="CANALES HD",DISCOVERY THEATHER HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11729.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://tvpremiumhd.com/channels/img/tv-discoveryworld.png" group-title="CANALES HD",DISCOVERY WORLD HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-espn.png" group-title="CANALES HD",ESPN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11685.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9097.png" group-title="CANALES HD",ESPN 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11684.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9622.png" group-title="CANALES HD",ESPN 3 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11683.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-espnplus.png" group-title="CANALES HD",ESPN PLUS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11682.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fxm.png" group-title="CANALES HD",FXM HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11725.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7595.png" group-title="CANALES HD",FOX ACTION HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11724.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3776.png" group-title="CANALES HD",FOX CINEMA HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11722.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSICS HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2971.png" group-title="CANALES HD",FOX CLASSICS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11721.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3739.png" group-title="CANALES HD",FOX COMEDY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11720.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1005.png" group-title="CANALES HD",FOX FAMILY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11719.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7835.png" group-title="CANALES HD",FOX LIFE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11718.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3641.png" group-title="CANALES HD",FOX MOVIES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11717.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxseries.png" group-title="CANALES HD",FOX SERIES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11716.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS1 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports.png" group-title="CANALES HD",FOX SPORTS1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11681.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS2 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports2.png" group-title="CANALES HD",FOX SPORTS2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11680.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS3 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxsports3.png" group-title="CANALES HD",FOX SPORTS3 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11679.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOXA CTION MEX HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-foxaction.png" group-title="CANALES HD",FOX ACTION MEX HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11723.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-fx.png" group-title="CANALES HD",FX HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11715.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-golden.png" group-title="CANALES HD",GOLDEN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11714.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-goldenpremier.png" group-title="CANALES HD",GOLDEN PREMIER HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11713.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-golf.png" group-title="CANALES HD",GOLF CHANNEL HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11678.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-gourmet.png" group-title="CANALES HD",GOURMET HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11712.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hbo.png" group-title="CANALES HD",HBO HD HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11711.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hboplus.png" group-title="CANALES HD",HBO PLUS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11710.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-hbosignature.png" group-title="CANALES HD",HBO SIGNATURE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11709.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-history.png" group-title="CANALES HD",HISTORY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11708.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASCHIC HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7055.png" group-title="CANALES HD",MASCHIC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11705.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-mtvlive.png" group-title="CANALES HD",MTV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11704.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7645.png" group-title="CANALES HD",NATGEO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11701.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-natgeowild.png" group-title="CANALES HD",NATGEO WILD HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11700.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-nick2.png" group-title="CANALES HD",NICK 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11671.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JRHD HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5150.png" group-title="CANALES HD",NICK JR HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11668.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-nick.png" group-title="CANALES HD",NICKELODEON HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11670.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-paramound.png" group-title="CANALES HD",PARAMOUNT HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11699.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7069.png" group-title="CANALES HD",PASIONES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11698.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-canalsony.png" group-title="CANALES HD",SONY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11697.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-space.png" group-title="CANALES HD",SPACE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11696.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-sundancetv.png" group-title="CANALES HD",SUNDANCE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11695.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-tntseries.png" group-title="CANALES HD",TNT SERIES HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11691.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-trutv.png" group-title="CANALES HD",TRUTV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11690.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVAGRO HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1635.png" group-title="CANALES HD",TVAGRO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11626.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://tvpremiumhd.com/channels/img/hd-vh1.png" group-title="CANALES HD",VH1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11623.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8365.png" group-title="CANALES HD",WIN SPORTS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11677.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MÉXICO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="TV MÉXICO",TV MEXICO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azteca A+" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1508.png" group-title="TV MÉXICO",Azteca A+
+http://tvpremiumhd.com/lista-gratuita/psi2/7406.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8799.png" group-title="TV MÉXICO",AZ CINEMA
+http://tvpremiumhd.com/lista-gratuita/psi2/3608.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CLIC" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2913.png" group-title="TV MÉXICO",AZ CLIC
+http://tvpremiumhd.com/lista-gratuita/psi2/3607.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4023.png" group-title="TV MÉXICO",AZ CORAZON
+http://tvpremiumhd.com/lista-gratuita/psi2/3606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8959.png" group-title="TV MÉXICO",Az Mundo
+http://tvpremiumhd.com/lista-gratuita/psi2/3605.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZ NOTICIAS" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7074.png" group-title="TV MÉXICO",AZ NOTICIAS
+http://tvpremiumhd.com/lista-gratuita/psi2/3604.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6056.png" group-title="TV MÉXICO",AZTECA 7
+http://tvpremiumhd.com/lista-gratuita/psi2/3610.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA TRECE LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1706.png" group-title="TV MÉXICO",AZTECA UNO LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3603.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8139.png" group-title="TV MÉXICO",Canal Once
+http://tvpremiumhd.com/lista-gratuita/psi2/3589.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2350.png" group-title="TV MÉXICO",CANAL 5
+http://tvpremiumhd.com/lista-gratuita/psi2/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8672.png" group-title="TV MÉXICO",LAS ESTRELLAS
+http://tvpremiumhd.com/lista-gratuita/psi2/3601.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6989.png" group-title="TV MÉXICO",DE PELICULA
+http://tvpremiumhd.com/lista-gratuita/psi2/3599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2505.png" group-title="TV MÉXICO",Distrito Comedia
+http://tvpremiumhd.com/lista-gratuita/psi2/3598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 52 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3939.png" group-title="TV MÉXICO",Canal 52
+http://tvpremiumhd.com/lista-gratuita/psi2/3597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2050.png" group-title="TV MÉXICO",Tlnovelas
+http://tvpremiumhd.com/lista-gratuita/psi2/3595.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="cd5563b951227a707cc8b7fd93b93c7a" tvg-name="A&E LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9908.png" group-title="ENTRETENIMIENTO",A&E LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3729.ts
+#EXTINF:-1 tvg-id="8e656ca60d9e5f8c6549b35f72ea2927" tvg-name="AMC LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9365.png" group-title="ENTRETENIMIENTO",AMC LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3728.ts
+#EXTINF:-1 tvg-id="ce55062329ae48252a53c9d5bd28c0e2" tvg-name="ANIMAL PLANET LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4705.png" group-title="ENTRETENIMIENTO",ANIMAL PLANET LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3727.ts
+#EXTINF:-1 tvg-id="fe0cdba8d692ac406d78fd2e22f5cf7c" tvg-name="AXN LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8244.png" group-title="ENTRETENIMIENTO",AXN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4783.png" group-title="ENTRETENIMIENTO",Europa Europa LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3725.ts
+#EXTINF:-1 tvg-id="60f85cd039428df808f5d457e6ff343b" tvg-name="CINECANAL LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9623.png" group-title="ENTRETENIMIENTO",CINECANAL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3724.ts
+#EXTINF:-1 tvg-id="e93077a4b7c00d62cc5af438ad9368bd" tvg-name="CINE LATINO LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8101.png" group-title="ENTRETENIMIENTO",CINE LATINO LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3723.ts
+#EXTINF:-1 tvg-id="294b699edbe6354718c63f2a5217febf" tvg-name="CINEMAX LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2358.png" group-title="ENTRETENIMIENTO",CINEMAX LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3722.ts
+#EXTINF:-1 tvg-id="5dc43fb844a8ef264bccb77570fcb72c" tvg-name="Comedy Central LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7275.png" group-title="ENTRETENIMIENTO",Comedy Central LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3721.ts
+#EXTINF:-1 tvg-id="9a836698352b2603ebf4040fcd072699" tvg-name="DISCOVERY CHANNEL LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5962.png" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3719.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Discovery ID" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7028.png" group-title="ENTRETENIMIENTO",Discovery ID
+http://tvpremiumhd.com/lista-gratuita/psi2/3686.ts
+#EXTINF:-1 tvg-id="2b81d33ba79c8d250742f272a08970a2" tvg-name="Discovery Home & Health" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9784.png" group-title="ENTRETENIMIENTO",Discovery Home & Health
+http://tvpremiumhd.com/lista-gratuita/psi2/3720.ts
+#EXTINF:-1 tvg-id="1386743c69d0d809ebca62b8a05143fd" tvg-name="Discovery Civilization" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5797.png" group-title="ENTRETENIMIENTO",Discovery Civilization
+http://tvpremiumhd.com/lista-gratuita/psi2/3718.ts
+#EXTINF:-1 tvg-id="90f9521d0248ed88a8e50fa3eeb963d9" tvg-name="DISCOVERY SCIENCE LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2819.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3717.ts
+#EXTINF:-1 tvg-id="7199b46307fa8ba71ed720148af8544f" tvg-name="DISCOVERY THEATER LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9935.png" group-title="ENTRETENIMIENTO",DISCOVERY THEATER LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3716.ts
+#EXTINF:-1 tvg-id="78e8e0526f18f100ea9907a0b86f6f13" tvg-name="DISCOVERY TLC LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6806.png" group-title="ENTRETENIMIENTO",DISCOVERY TLC LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3715.ts
+#EXTINF:-1 tvg-id="8d7f8e90c81f1a2db22ad0eff3fed3f3" tvg-name="DISCOVERY TURBO LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6942.png" group-title="ENTRETENIMIENTO",DISCOVERY TURBO LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3714.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2082.png" group-title="ENTRETENIMIENTO",DISCOVERY WORLD
+http://tvpremiumhd.com/lista-gratuita/psi2/3713.ts
+#EXTINF:-1 tvg-id="07615d923891c7aa91973f7d960c2265" tvg-name="E! ENTERTAINMENT LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2136.png" group-title="ENTRETENIMIENTO",E! ENTERTAINMENT LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3712.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7929.png" group-title="ENTRETENIMIENTO",THE FILMZONE LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3711.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2516.png" group-title="ENTRETENIMIENTO",FOX
+http://tvpremiumhd.com/lista-gratuita/psi2/3710.ts
+#EXTINF:-1 tvg-id="c056f95acf42310d0247e0f06b43ba40" tvg-name="Fox Premium Series" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6229.png" group-title="ENTRETENIMIENTO",Fox Premium Series
+http://tvpremiumhd.com/lista-gratuita/psi2/3709.ts
+#EXTINF:-1 tvg-id="976d48b8633e7a44ec796e89ec06e29e" tvg-name="Fox Premium Action" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7595.png" group-title="ENTRETENIMIENTO",Fox Premium Action
+http://tvpremiumhd.com/lista-gratuita/psi2/3708.ts
+#EXTINF:-1 tvg-id="db9f3f03cd0a35ce2182eefa04b9c083" tvg-name="FOX CINEMA LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3776.png" group-title="ENTRETENIMIENTO",FOX CINEMA LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3707.ts
+#EXTINF:-1 tvg-id="180b25edf735fbcd3a53f17eeb76632a" tvg-name="FOX CLASSIC LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2971.png" group-title="ENTRETENIMIENTO",FOX CLASSIC LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3706.ts
+#EXTINF:-1 tvg-id="026bb3c9e902cd4d5560b584c29d7f9d" tvg-name="Fox Comedy LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3739.png" group-title="ENTRETENIMIENTO",Fox Comedy LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3705.ts
+#EXTINF:-1 tvg-id="4689049c0a9fbed4dd71d18daf4ce994" tvg-name="FOX Family LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1005.png" group-title="ENTRETENIMIENTO",FOX Family LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3704.ts
+#EXTINF:-1 tvg-id="976eb5d52cc83c23004fc8c88dfb4010" tvg-name="FOX LIFE LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7835.png" group-title="ENTRETENIMIENTO",FOX LIFE LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3703.ts
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="Fox Premium Movies" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3641.png" group-title="ENTRETENIMIENTO",Fox Premium Movies
+http://tvpremiumhd.com/lista-gratuita/psi2/3702.ts
+#EXTINF:-1 tvg-id="a0c4a8a62bfaa3ec78a13677e070442d" tvg-name="FX LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2278.png" group-title="ENTRETENIMIENTO",FX LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3701.ts
+#EXTINF:-1 tvg-id="9d6870a20ac1f0dfadde309ebc21dd6c" tvg-name="GOLDEN LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8335.png" group-title="ENTRETENIMIENTO",GOLDEN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3700.ts
+#EXTINF:-1 tvg-id="944953d4d6d54d8740667e9f9bb2ead5" tvg-name="GOLDEN EDGE LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2017.png" group-title="ENTRETENIMIENTO",GOLDEN EDGE LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3699.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1379.png" group-title="ENTRETENIMIENTO",HBO
+http://tvpremiumhd.com/lista-gratuita/psi2/3696.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7188.png" group-title="ENTRETENIMIENTO",HBO 2
+http://tvpremiumhd.com/lista-gratuita/psi2/3695.ts
+#EXTINF:-1 tvg-id="307d22e4c37988888abb78add782b01b" tvg-name="HBO Family LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3751.png" group-title="ENTRETENIMIENTO",HBO Family LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3693.ts
+#EXTINF:-1 tvg-id="HBO Plus Este" tvg-name="HBO Plus LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3318.png" group-title="ENTRETENIMIENTO",HBO Plus LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3691.ts
+#EXTINF:-1 tvg-id="48577f8be7b53700f8736497ee49aad5" tvg-name="HBO Signature LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2735.png" group-title="ENTRETENIMIENTO",HBO Signature LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3690.ts
+#EXTINF:-1 tvg-id="1ce8b5b1ab2f44e2c7da8bca56a891f1" tvg-name="HTV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8180.png" group-title="ENTRETENIMIENTO",HTV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3689.ts
+#EXTINF:-1 tvg-id="63530a4867a5ca536b18cb356e7c865f" tvg-name="History LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3922.png" group-title="ENTRETENIMIENTO",History LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3688.ts
+#EXTINF:-1 tvg-id="3d450fe1f668f82d7efb719a44dba9c9" tvg-name="H2 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6365.png" group-title="ENTRETENIMIENTO",H2 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3687.ts
+#EXTINF:-1 tvg-id="65e69f50849d2910fd2a7fc38d0dd627" tvg-name="LIFETIME LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5374.png" group-title="ENTRETENIMIENTO",LIFETIME LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3685.ts
+#EXTINF:-1 tvg-id="832aa9599db4ddb13f613a68455a54a0" tvg-name="Max" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4765.png" group-title="ENTRETENIMIENTO",Max
+http://tvpremiumhd.com/lista-gratuita/psi2/3684.ts
+#EXTINF:-1 tvg-id="b0285fa5dc49c574dbd92ee381482272" tvg-name="MAX Prime Este LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2332.png" group-title="ENTRETENIMIENTO",MAX Prime Este LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3683.ts
+#EXTINF:-1 tvg-id="MultiPremier" tvg-name="MultiPremier LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3425.png" group-title="ENTRETENIMIENTO",MultiPremier LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3681.ts
+#EXTINF:-1 tvg-id="57134291d3b4f84e1f2bcd163248aed8" tvg-name="FILM&ARTS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5747.png" group-title="ENTRETENIMIENTO",FILM&ARTS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3680.ts
+#EXTINF:-1 tvg-id="dd91af1d6f0c449b78a9ca999193a709" tvg-name="Nat Geo Wild LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1171.png" group-title="ENTRETENIMIENTO",Nat Geo Wild LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3677.ts
+#EXTINF:-1 tvg-id="81166f516099de8b1c2923633738ad49" tvg-name="National Geographic" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8694.png" group-title="ENTRETENIMIENTO",National Geographic
+http://tvpremiumhd.com/lista-gratuita/psi2/3676.ts
+#EXTINF:-1 tvg-id="77b529f44570c2955a746678d71f65cf" tvg-name="Paramount Channel LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4424.png" group-title="ENTRETENIMIENTO",Paramount Channel LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3675.ts
+#EXTINF:-1 tvg-id="d669779e473ebcb3e34052cb352e807c" tvg-name="SONY LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1939.png" group-title="ENTRETENIMIENTO",SONY LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3673.ts
+#EXTINF:-1 tvg-id="1b4b688d0cd7f6c758f00d8142b9a3a3" tvg-name="SPACE LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6202.png" group-title="ENTRETENIMIENTO",SPACE LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3671.ts
+#EXTINF:-1 tvg-id="4c00edc5fa521d794fcbb7eb34162cf7" tvg-name="STUDIO UNIVERSAL LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8101.png" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3670.ts
+#EXTINF:-1 tvg-id="192a0b4fac741d5f9b3cd8da6f32294d" tvg-name="SYFY LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5792.png" group-title="ENTRETENIMIENTO",SYFY LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3668.ts
+#EXTINF:-1 tvg-id="d2a3e6a0e60493e093b249d6c478ced0" tvg-name="TCM LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5307.png" group-title="ENTRETENIMIENTO",TCM LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3667.ts
+#EXTINF:-1 tvg-id="0c4a8304789a4de7b5c05923a83ccda5" tvg-name="Telemundo LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2226.png" group-title="ENTRETENIMIENTO",Telemundo LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3666.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2887.png" group-title="ENTRETENIMIENTO",TNT
+http://tvpremiumhd.com/lista-gratuita/psi2/3665.ts
+#EXTINF:-1 tvg-id="13520ac0124195493857dc0f9466d3d2" tvg-name="TNT SERIES LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8591.png" group-title="ENTRETENIMIENTO",TNT SERIES LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3664.ts
+#EXTINF:-1 tvg-id="5eaeb3cbab691ecc7d1aeb3ec4c8a829" tvg-name="TRU TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7986.png" group-title="ENTRETENIMIENTO",TRU TV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3663.ts
+#EXTINF:-1 tvg-id="d87d0f2457a06cd5ce46682560029e92" tvg-name="UNIVERSAL CHANNEL LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4538.png" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3662.ts
+#EXTINF:-1 tvg-id="WARNER BROS" tvg-name="Warner Channel" tvg-logo="https://image.prntscr.com/image/RIOK4L9JQACulIPSG3F7fw.png" group-title="ENTRETENIMIENTO",Warner Channel
+http://tvpremiumhd.com/lista-gratuita/psi2/3660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5657.png" group-title="TV MÚSICA",Telehit
+http://tvpremiumhd.com/lista-gratuita/psi2/3799.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8105.png" group-title="TV MÚSICA",BANDAMAX
+http://tvpremiumhd.com/lista-gratuita/psi2/3804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5430.png" group-title="TV MÚSICA",MTV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3803.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6473.png" group-title="TV MÚSICA",MTV HITS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3802.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7714.png" group-title="TV MÚSICA",MTV BASE
+http://tvpremiumhd.com/lista-gratuita/psi2/11901.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6621.png" group-title="TV MÚSICA",MTV Classic
+http://tvpremiumhd.com/lista-gratuita/psi2/11900.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7698.png" group-title="TV MÚSICA",MTV Dance
+http://tvpremiumhd.com/lista-gratuita/psi2/11899.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6473.png" group-title="TV MÚSICA",MTV Hits
+http://tvpremiumhd.com/lista-gratuita/psi2/11898.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4170.png" group-title="TV MÚSICA",MTV Rocks
+http://tvpremiumhd.com/lista-gratuita/psi2/11897.ts
+#EXTINF:-1 tvg-id="http://tvpremiumhd.com/channels/live/upload/4994.png" tvg-name="Music Vox TV" tvg-logo="" group-title="TV MÚSICA",Music Vox TV
+http://tvpremiumhd.com/lista-gratuita/psi2/11896.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemusica LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1627.png" group-title="TV MÚSICA",Telemusica LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3801.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMS" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6422.png" group-title="TV MÚSICA",RMS
+http://tvpremiumhd.com/lista-gratuita/psi2/3800.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2936.png" group-title="TV MÚSICA",VH1 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3798.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2452.png" group-title="TV MÚSICA",VH1 CLASSICS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3797.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV INFANTIL" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="TV INFANTIL",TV INFANTIL
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5165.png" group-title="TV INFANTIL",Baby TV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3744.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4902.png" group-title="TV INFANTIL",BOOMERANG LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3155.png" group-title="TV INFANTIL",Cartoon Network
+http://tvpremiumhd.com/lista-gratuita/psi2/3742.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9767.png" group-title="TV INFANTIL",DISCOVERY KIDS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3741.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9852.png" group-title="TV INFANTIL",DISNEY CHANNEL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5179.png" group-title="TV INFANTIL",Disney Junior
+http://tvpremiumhd.com/lista-gratuita/psi2/3739.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2016.png" group-title="TV INFANTIL",DISNEY XD LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3738.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7708.png" group-title="TV INFANTIL",NAT GEO KIDS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8334.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8299.png" group-title="TV INFANTIL",NICK LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3734.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9398.png" group-title="TV INFANTIL",NICK 2
+http://tvpremiumhd.com/lista-gratuita/psi2/3737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1320.png" group-title="TV INFANTIL",Nick Jr
+http://tvpremiumhd.com/lista-gratuita/psi2/3736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3876.png" group-title="TV INFANTIL",Nicktoons
+http://tvpremiumhd.com/lista-gratuita/psi2/3735.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIIN" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2087.png" group-title="TV INFANTIL",TIIN
+http://tvpremiumhd.com/lista-gratuita/psi2/3732.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4874.png" group-title="TV INFANTIL",TOONCAST LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3731.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7643.png" group-title="DEPORTES",DEPORTES
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN LATINO" tvg-logo="https://image.prntscr.com/image/IS0jFovCQYmdfY-BkGib_g.png" group-title="DEPORTES",ESPN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3655.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4906.png" group-title="DEPORTES",ESPN 2 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3654.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 LATINO" tvg-logo="https://image.prntscr.com/image/Vl_8E0A0RT2NOvQwarWy_Q.png" group-title="DEPORTES",ESPN 3 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3653.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6788.png" group-title="DEPORTES",ESPN Plus LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3659.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9547.png" group-title="DEPORTES",FOX SPORTS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3649.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9383.png" group-title="DEPORTES",FOX SPORTS 2 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3648.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7968.png" group-title="DEPORTES",FOX SPORTS 3 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3646.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9478.png" group-title="DEPORTES",GOL TV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Latin America LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5053.png" group-title="DEPORTES",Golf Latin America LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8333.ts
+#EXTINF:-1 tvg-id="" tvg-name="TDN LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2997.png" group-title="DEPORTES",TDN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8336.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8206.png" group-title="DEPORTES",UNIVISION TDN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/4018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision Deportes LATINO" tvg-logo="https://image.prntscr.com/image/DW9miugHSpaDWR0Py5bHkA.png" group-title="DEPORTES",Univision Deportes LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/4280.ts
+#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4586.png" group-title="DEPORTES",AYM SPORTS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4904.png" group-title="DEPORTES",Bein Sport
+http://tvpremiumhd.com/lista-gratuita/psi2/3656.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTv Sports LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9606.png" group-title="DEPORTES",DirecTv Sports LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8337.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTv Sports 2 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6494.png" group-title="DEPORTES",DirecTv Sports 2 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8329.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTv Sports + LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4852.png" group-title="DEPORTES",DirecTv Sports + LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Px TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4269.png" group-title="DEPORTES",Px TV
+http://tvpremiumhd.com/lista-gratuita/psi2/4002.ts
+#EXTINF:-1 tvg-id="" tvg-name=".Claro Sports (solo LATINO)" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3377.png" group-title="DEPORTES",Claro Sports (solo LATINO)
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-id="PT: SPORT TV 1 HD 1080" tvg-name="PT: SPORT TV 1 HD 1080" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9974.png" group-title="DEPORTES",PT: SPORT TV 1 HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/10915.ts
+#EXTINF:-1 tvg-id="PT: SPORT TV 2 HD 1080" tvg-name="PT: SPORT TV 2 HD 1080" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1131.png" group-title="DEPORTES",PT: SPORT TV 2 HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/10916.ts
+#EXTINF:-1 tvg-id="PT: SPORT TV 3 HD 1080" tvg-name="PT: SPORT TV 3 HD 1080" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2905.png" group-title="DEPORTES",PT: SPORT TV 3 HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/10917.ts
+#EXTINF:-1 tvg-id="PT: SPORT TV 4HD" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1490.png" group-title="DEPORTES",PT: SPORT TV 4 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10918.ts
+#EXTINF:-1 tvg-id="PT: SPORT TV 5 HD 1080" tvg-name="PT: SPORT TV 5 HD 1080" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5927.png" group-title="DEPORTES",PT: SPORT TV 5 HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/10919.ts
+#EXTINF:-1 tvg-id="PT: Sporting TV HD 1080" tvg-name="PT: SPORTING TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4521.png" group-title="DEPORTES",PT: SPORTING TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10920.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boxnation LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/6480.png" group-title="DEPORTES",UK: Boxnation LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/5942.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2224.png" group-title="TV MÉXICO",ADN40
+http://tvpremiumhd.com/lista-gratuita/psi2/3591.ts
+#EXTINF:-1 tvg-id="" tvg-name="HN: Todo Deporte LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8800.png" group-title="DEPORTES",HN: Todo Deporte LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8338.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9285.png" group-title="TV MÉXICO",EL FINANCIERO
+http://tvpremiumhd.com/lista-gratuita/psi2/3586.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9465.png" group-title="TV MÉXICO",EL GOURMET
+http://tvpremiumhd.com/lista-gratuita/psi2/3585.ts
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3505.png" group-title="TV MÉXICO",FASHION TV
+http://tvpremiumhd.com/lista-gratuita/psi2/3584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9222.png" group-title="TV MÉXICO",Foro TV
+http://tvpremiumhd.com/lista-gratuita/psi2/3583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9232.png" group-title="TV MÉXICO",Gala TV 
+http://tvpremiumhd.com/lista-gratuita/psi2/3582.ts
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3149.png" group-title="TV MÉXICO",GARAGE TV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3580.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3326.png" group-title="TV MÉXICO",GLITZ LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3579.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/2049.png" group-title="TV MÉXICO",HOLA TV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3577.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7055.png" group-title="TV MÉXICO",MAS CHIC LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/5024.png" group-title="TV MÉXICO",Milenio TV
+http://tvpremiumhd.com/lista-gratuita/psi2/3573.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9432.png" group-title="TV MÉXICO",TBS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3571.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9887.png" group-title="TV MÉXICO",TELEFORMULA LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1961.png" group-title="TV MÉXICO",Canal 22
+http://tvpremiumhd.com/lista-gratuita/psi2/3593.ts
+#EXTINF:-1 tvg-id="" tvg-name="UY: CANAL 10" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8333.png" group-title="ENTRETENIMIENTO",UY: CANAL 10
+http://tvpremiumhd.com/lista-gratuita/psi2/3567.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE: TV AGRO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1635.png" group-title="ENTRETENIMIENTO",VE: TV AGRO
+http://tvpremiumhd.com/lista-gratuita/psi2/3565.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE TV" tvg-logo="https://image.prntscr.com/image/RrhFar2hQh69KYfBSFpWXw.png" group-title="TV MÉXICO",ENLACE TV
+http://tvpremiumhd.com/lista-gratuita/psi2/8167.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOBI LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8302.png" group-title="TV MÉXICO",WOBI LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panama: Telemetro 13" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8316.png" group-title="ENTRETENIMIENTO",Panama: Telemetro 13
+http://tvpremiumhd.com/lista-gratuita/psi2/3421.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3016.png" group-title="ENTRETENIMIENTO",PT: BENFICA TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10921.ts
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="http://tvpremiumhd.com/channels/live/upload/8527.png" group-title="TV MÉXICO",BANDAMAX
+http://tvpremiumhd.com/lista-gratuita/psi2/3804.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3324.png" group-title="TV MÉXICO",MTV LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3803.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/9906.png" group-title="TV MÉXICO",MTV HITS
+http://tvpremiumhd.com/lista-gratuita/psi2/3802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemusica LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4001.png" group-title="TV MÉXICO",Telemusica
+http://tvpremiumhd.com/lista-gratuita/psi2/3801.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMS" tvg-logo="http://tvpremiumhd.com/channels/live/upload/4409.png" group-title="TV MÉXICO",RMS
+http://tvpremiumhd.com/lista-gratuita/psi2/3800.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://tvpremiumhd.com/channels/live/upload/3734.png" group-title="TV MÉXICO",Telehit
+http://tvpremiumhd.com/lista-gratuita/psi2/3799.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/1797.png" group-title="TV MÉXICO",VH1 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3798.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS LATINO" tvg-logo="http://tvpremiumhd.com/channels/live/upload/7284.png" group-title="TV MÉXICO",VH1 CLASSICS
+http://tvpremiumhd.com/lista-gratuita/psi2/3797.ts
+#EXTINF:-1 tvg-id="" tvg-name=">>>> ARGENTINA <<<<" tvg-logo="" group-title="TV ARGENTINA",>>>> ARGENTINA <<<<
+http://tvpremiumhd.com/lista-gratuita/psi2/3759.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: AMERICA TV HD" tvg-logo="http://images.mi.tv/channels/ar_america-2-capital_m.png" group-title="TV ARGENTINA",AR: AMERICA TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tv Publica" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/39/TV_P%C3%BAblica.png" group-title="TV ARGENTINA",AR: Tv Publica
+http://tvpremiumhd.com/lista-gratuita/psi2/7405.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: TN HD" tvg-logo="http://3.bp.blogspot.com/--9nCB1sjZOo/UZUQwy5EZBI/AAAAAAAAOaA/8-X0Zr0_-l0/s1600/cee987d0719a655ee33a6b09348c3788.png" group-title="TV ARGENTINA",AR: TN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3757.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26" tvg-logo="http://1.bp.blogspot.com/-PAhmbdxKJFg/VL8uUhZxw9I/AAAAAAAAAT8/w2EGi4KhN6M/s300/descarga%2B%25281%2529.jpg" group-title="TV ARGENTINA",AR: Canal 26
+http://tvpremiumhd.com/lista-gratuita/psi2/3756.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 9" tvg-logo="https://vignette1.wikia.nocookie.net/applezone/images/a/ab/Canal_9_Argentina.png/revision/latest/scale-to-width-down/180?cb=20120318212101&path-prefix=es" group-title="TV ARGENTINA",AR: Canal 9
+http://tvpremiumhd.com/lista-gratuita/psi2/3755.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: DeporTV" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11214_7_8851.png" group-title="TV ARGENTINA",AR: DeporTV
+http://tvpremiumhd.com/lista-gratuita/psi2/3754.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN HD LATINO" tvg-logo="http://e.espncdn.com/prod/assets/facebook/espn200.jpg" group-title="TV ARGENTINA",AR: ESPN HD LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3752.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN 2 HD LATINO" tvg-logo="http://butv.mipropia.com/play/wp-content/uploads/2016/11/espn2.png" group-title="TV ARGENTINA",AR: ESPN 2 HD LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3751.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS 1 SUR  LATINO" tvg-logo="https://3.bp.blogspot.com/-u2U0W2aOWSc/WH3nUs-dmaI/AAAAAAAAAOM/mYU_vkxrRtockYoSqsMkbhlP0xrzoYm7ACLcB/s320/foxsports-australia-logo.png" group-title="TV ARGENTINA",AR: FOX SPORTS 1 SUR  LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3750.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS 2 SUR LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/400px-2015_Fox_sports_logo.svg.png" group-title="TV ARGENTINA",AR: FOX SPORTS 2 SUR LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3749.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: FOX SPORTS 3 SUR LATINO" tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/117/img_logo-fox-sport-3.jpg" group-title="TV ARGENTINA",AR: FOX SPORTS 3 SUR LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3748.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELEFE HD" tvg-logo="https://i.pinimg.com/originals/97/f3/c5/97f3c5d2eca231b7f8673e86eed83362.jpg" group-title="TV ARGENTINA",AR: TELEFE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3747.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: elTrece HD" tvg-logo="http://farm5.static.flickr.com/4147/5041978240_a76ee79de9.jpg" group-title="TV ARGENTINA",AR: elTrece HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3753.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: TYC Sport HD" tvg-logo="https://2.bp.blogspot.com/-TCAEwktY8KI/V043GmYBhJI/AAAAAAAAF1s/P-No5j0J4RQJickY6XNCXl55j8HRCRE6ACLcB/s1600/TyC-Sports.png" group-title="TV ARGENTINA",AR: TYC Sport HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3746.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ECUADOR" tvg-logo="" group-title="TV ECUADOR",TV ECUADOR
+http://tvpremiumhd.com/lista-gratuita/psi2/4014.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: Canal UNO" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/uno.png" group-title="TV ECUADOR",EC: Canal UNO
+http://tvpremiumhd.com/lista-gratuita/psi2/4006.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT SPORT" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/05/cnt_sport.png" group-title="TV ECUADOR",EC: CNT SPORT
+http://tvpremiumhd.com/lista-gratuita/psi2/4007.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT SPORT (eventos) LATINO" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/05/cnt_sport.png" group-title="TV ECUADOR",EC: CNT SPORT (eventos) LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8330.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuador TV" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TV ECUADOR",EC: Ecuador TV
+http://tvpremiumhd.com/lista-gratuita/psi2/4005.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: ECUAVISA" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="TV ECUADOR",EC: ECUAVISA
+http://tvpremiumhd.com/lista-gratuita/psi2/4008.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: GAMA TV" tvg-logo="http://4.bp.blogspot.com/-Ef8wAkwTgV8/VlY6bGsUTcI/AAAAAAAASc4/oZRNms-0F_M/s1600/Gama%2Btv.png" group-title="TV ECUADOR",EC: GAMA TV
+http://tvpremiumhd.com/lista-gratuita/psi2/4009.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: OROMAR TV" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV ECUADOR",EC: OROMAR TV
+http://tvpremiumhd.com/lista-gratuita/psi2/4010.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="http://www.channelsfrequency.com/public_html/wp-content/uploads/2017/01/uACHQiLw-300x300.jpg" group-title="TV ECUADOR",EC: RTS
+http://tvpremiumhd.com/lista-gratuita/psi2/4011.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television" tvg-logo="http://s1.dmcdn.net/Dc-Pl/240x240-Q3w.jpg" group-title="TV ECUADOR",EC: TC Television
+http://tvpremiumhd.com/lista-gratuita/psi2/4012.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="https://yt3.ggpht.com/-q-QtbtA1uFw/AAAAAAAAAAI/AAAAAAAAAAA/hXG0ROKkD_U/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TV ECUADOR",EC: Teleamazonas
+http://tvpremiumhd.com/lista-gratuita/psi2/4013.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: TVC" tvg-logo="http://cdn.tvc.com.ec/sites/common/img/logo_televicentro.png" group-title="TV ECUADOR",EC: TVC
+http://tvpremiumhd.com/lista-gratuita/psi2/10932.ts
+#EXTINF:-1 tvg-id="" tvg-name=">>>> CHILE <<<<" tvg-logo="" group-title="TV CHILE",>>>> CHILE <<<<
+http://tvpremiumhd.com/lista-gratuita/psi2/3785.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Morandé con compañía " tvg-logo="https://vignette1.wikia.nocookie.net/wikimcc/images/9/99/MCC_Logo_2016.png/revision/latest?cb=20160320195013&path-prefix=es" group-title="TV CHILE",24/7 Morandé con compañía 
+http://tvpremiumhd.com/lista-gratuita/psi2/4872.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: 13 c LATINO" tvg-logo="http://www.ozoneactive.cl/images/logo13c.png" group-title="TV CHILE",CL: 13 c LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/4021.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 13 FHD" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="TV CHILE",CL: CANAL 13 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10929.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CANAL 13 HD" tvg-logo="http://1.bp.blogspot.com/_cjB58KnGgJA/TNS_ywxrgKI/AAAAAAAAABQ/Y6FlaHb87o4/s1600/NUEVO+LOGO+13+copia.jpg" group-title="TV CHILE",CL: CANAL 13 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3784.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDF Basico LATINO" tvg-logo="" group-title="TV CHILE",CL: CDF Basico LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/9931.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDF PREMIUM" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="TV CHILE",CL: CDF PREMIUM
+http://tvpremiumhd.com/lista-gratuita/psi2/3782.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDF Premium op2 LATINO" tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="TV CHILE",CL: CDF Premium op2 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/8327.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDF HD" tvg-logo="http://1.bp.blogspot.com/-OaODuV3F4GY/UQVD__B-5SI/AAAAAAAACYc/GXSupU7dftA/s1600/cdf+hd.png" group-title="TV CHILE",CL: CDF HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3783.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CDO HD" tvg-logo="http://tv-online.cl/cdo-tv-canal-del-deporte-olimpico-chile-en-vivo.jpg?170712081128" group-title="TV CHILE",CL: CDO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5875.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chvhd2015.png/245px-Chvhd2015.png" group-title="TV CHILE",CL: CHV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10930.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD" tvg-logo="http://www.uss.cl/wp-content/uploads/2016/04/chv.png" group-title="TV CHILE",CL: CHV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3781.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: CNN" tvg-logo="http://www.lamac.org/res/channels/logos/_0011_cnn_chile.png" group-title="TV CHILE",CL: CNN
+http://tvpremiumhd.com/lista-gratuita/psi2/3780.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: EL PINGUINO HD" tvg-logo="http://elpinguino.com/assets/img/image.jpg" group-title="TV CHILE",CL: EL PINGUINO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5879.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Estadio CDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Estadio_CDF.png" group-title="TV CHILE",CL: Estadio CDF HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5930.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: FOX Sports" tvg-logo="http://vignette4.wikia.nocookie.net/tvcable/images/1/10/Logo_Fox_Sports_Chile.png/revision/latest?cb=20150224214037&path-prefix=es" group-title="TV CHILE",CL: FOX Sports
+http://tvpremiumhd.com/lista-gratuita/psi2/3779.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Fox Sports 1 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/4/4a/Fox_Sports_1_HD.png/revision/latest?cb=20140415151108" group-title="TV CHILE",CL: Fox Sports 1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5932.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Fox Sports 2 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254" group-title="TV CHILE",CL: Fox Sports 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5933.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Fox Sports 3 HD" tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/4/4c/Fox_Sports_3_HD.png/revision/latest?cb=20141006141957" group-title="TV CHILE",CL: Fox Sports 3 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5934.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Fox Sports HD OP2" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/fe/Fox_Sports_Chile_HD.png/revision/latest?cb=20150407193242" group-title="TV CHILE",CL: Fox Sports HD OP2
+http://tvpremiumhd.com/lista-gratuita/psi2/5931.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED HD" tvg-logo="" group-title="TV CHILE",CL: LA RED HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10961.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: LA RED" tvg-logo="https://2.bp.blogspot.com/-47hE4vqpHj8/WPegLXYumhI/AAAAAAAAvVk/UKDb1aGevX815Vy3KkJHPTIkKHexZsnygCLcB/s1600/lared%2B%25281%2529.png" group-title="TV CHILE",CL: LA RED
+http://tvpremiumhd.com/lista-gratuita/psi2/3778.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png" group-title="TV CHILE",CL: MEGA  FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10928.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png" group-title="TV CHILE",CL: MEGA HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3777.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: Rec TV 13 LATINO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Logo_Rec_TV_%28transici%C3%B3n_2015%29.png" group-title="TV CHILE",CL: Rec TV 13 LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/4000.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TELE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/220px-Teletrece_Logo_%282012%29.svg.png" group-title="TV CHILE",CL: TELE 13
+http://tvpremiumhd.com/lista-gratuita/psi2/3774.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TELETRAK CHILE" tvg-logo="http://www.teletrak.cl/imagenes/logo.png" group-title="TV CHILE",CL: TELETRAK CHILE
+http://tvpremiumhd.com/lista-gratuita/psi2/3776.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="TV CHILE",CL: TVN FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10931.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tvn2004oficial.png/220px-Tvn2004oficial.png" group-title="TV CHILE",CL: TVN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3775.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: UCV HD" tvg-logo="http://tv-online.cl/ucv-tv-valparaiso-television.jpg" group-title="TV CHILE",CL: UCV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3999.ts
+#EXTINF:-1 tvg-id="" tvg-name=">>>> COLOMBIA <<<<" tvg-logo="" group-title="TV COLOMBIA",>>>> COLOMBIA <<<<
+http://tvpremiumhd.com/lista-gratuita/psi2/3773.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Fox Sports Colombia LATINO" tvg-logo="https://pbs.twimg.com/profile_images/805804977025323008/BuB5zyCy_400x400.jpg" group-title="TV COLOMBIA",CO: Fox Sports Colombia LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3772.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL INTERNACIONAL LATINO" tvg-logo="https://lh3.googleusercontent.com/vQF15TjMlz77ZuKR9RdSq8427F4YE66HZHXeVg47NDIMlIkLiupOuvd5e2k0b_apn0I=w170" group-title="TV COLOMBIA",CO: CARACOL INTERNACIONAL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3771.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL LATINO" tvg-logo="http://www.caracoltv.com/sites/default/files/caracol-tv.jpg" group-title="TV COLOMBIA",CO: CARACOL LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3770.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: CITYTV" tvg-logo="http://tv.boxbg.net/img/logos/9.jpg" group-title="TV COLOMBIA",CO: CITYTV
+http://tvpremiumhd.com/lista-gratuita/psi2/3769.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: COSMO VISION LATINO" tvg-logo="http://images.mi.tv/channels/co_cosmovision_m.png" group-title="TV COLOMBIA",CO: COSMO VISION LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3767.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: EL TIEMPO" tvg-logo="https://pbs.twimg.com/profile_images/734758797797904384/FY_DY5Z7.jpg" group-title="TV COLOMBIA",CO: EL TIEMPO
+http://tvpremiumhd.com/lista-gratuita/psi2/3766.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD" tvg-logo="http://2.bp.blogspot.com/_RyvxnxywZks/S5J7oyUa7HI/AAAAAAAABL0/0TltT0-7UkQ/s320/Rcn+msn.png" group-title="TV COLOMBIA",CO: RCN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3765.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal U LATINO" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/CanalU.png" group-title="TV COLOMBIA",CO: Canal U LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3764.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleantioquia.png/150px-Teleantioquia.png" group-title="TV COLOMBIA",CO: TELEANTIOQUIA
+http://tvpremiumhd.com/lista-gratuita/psi2/3763.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TELEMEDELLIN LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/300px-Telemedellin.svg.png" group-title="TV COLOMBIA",CO: TELEMEDELLIN LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3762.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: TR3CE HD Colombia" tvg-logo="https://pbs.twimg.com/profile_images/2986751954/f1ccf52eef9843a328268772496fcce3_400x400.png" group-title="TV COLOMBIA",CO: TR3CE HD Colombia
+http://tvpremiumhd.com/lista-gratuita/psi2/3761.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: WIN SPORTS LATINO" tvg-logo="http://www.mediamaratonbogota.com/2016/imas/Patrocina/WinSports.png" group-title="TV COLOMBIA",CO: WIN SPORTS LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3760.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="" group-title="TV PERU",TV PERU
+http://tvpremiumhd.com/lista-gratuita/psi2/3796.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: America TV" tvg-logo="http://2.bp.blogspot.com/-ywKoAleusPU/V_XKf1rX6cI/AAAAAAAADCk/6cD28vv-izYrKEY2AhrxHNUejKNH2Sv5wCLcB/s300/americatv-peru.png" group-title="TV PERU",PE: America TV
+http://tvpremiumhd.com/lista-gratuita/psi2/3795.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV HD" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="TV PERU",PE: ATV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3794.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: ATV+" tvg-logo="http://www.supercable.com.pe/uploads/5/3/5/0/53505143/3355095.jpg" group-title="TV PERU",PE: ATV+
+http://tvpremiumhd.com/lista-gratuita/psi2/10926.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Capital TV" tvg-logo="http://1.bp.blogspot.com/-M_SpHdt2qTU/Vqqfy6AkyKI/AAAAAAAABOA/RWsCcLEsrY4/s144-c/capital-tv-peru.png" group-title="TV PERU",PE: Capital TV
+http://tvpremiumhd.com/lista-gratuita/psi2/3793.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: GOLPERU LATINO" tvg-logo="https://3.bp.blogspot.com/-DHIgBR5LIEs/WEGZrAaz9eI/AAAAAAAAD3g/DAJNBJdEscUYBk6NgVkYl5dLOFWyaSLKgCLcB/s1600/golperu.png" group-title="TV PERU",PE: GOLPERU LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3792.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: IPE" tvg-logo="http://facultad.pucp.edu.pe/comunicaciones/files/2016/07/ipe.jpg" group-title="TV PERU",PE: IPE
+http://tvpremiumhd.com/lista-gratuita/psi2/3791.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA LATINO" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/latina-tv-en-vivo-818.png" group-title="TV PERU",PE: LATINA LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3807.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Movisar Deportes (CMD) LATINO" tvg-logo="http://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" group-title="TV PERU",PE: Movisar Deportes (CMD) LATINO
+http://tvpremiumhd.com/lista-gratuita/psi2/3810.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: PANAMERICANA" tvg-logo="https://1.bp.blogspot.com/-Ehbeg6mxnYw/WEGZvhc8bwI/AAAAAAAAD54/jQpiwl43r3oLjfzQ2tU3UwOuEPgNhpMXACLcB/s1600/panamericana.png" group-title="TV PERU",PE: PANAMERICANA
+http://tvpremiumhd.com/lista-gratuita/psi2/3790.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Panamericana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Panamericana_HD.svg/500px-Panamericana_HD.svg.png" group-title="TV PERU",PE: Panamericana HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10923.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: PERU MAGICO" tvg-logo="http://sisatellite.com/wp-content/uploads/2016/04/Peru-Magico.png" group-title="TV PERU",PE: PERU MAGICO
+http://tvpremiumhd.com/lista-gratuita/psi2/3789.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: RPP TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a5/63bfd28cfda83086a89b01042c130c8c.jpg" group-title="TV PERU",PE: RPP TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10925.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV Peru" tvg-logo="http://www.dejavu.com.pe/clientes/logo_tvperu.gif" group-title="TV PERU",PE: TV Peru
+http://tvpremiumhd.com/lista-gratuita/psi2/3806.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: TV PERU 7.3" tvg-logo="http://www.tvperu.gob.pe/sites/default/files/styles/client_270x90/public/TVPERU_7_3_0_0.png?itok=iK86BXd8" group-title="TV PERU",PE: TV PERU 7.3
+http://tvpremiumhd.com/lista-gratuita/psi2/3788.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Willax HD" tvg-logo="http://willax.tv/static/images/facebook-logo.jpg" group-title="TV PERU",PE: Willax HD
+http://tvpremiumhd.com/lista-gratuita/psi2/3786.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV COSTA RICA" tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/34/costa-rica-1460630_960_720.jpg" group-title="TV COSTA RICA",TV COSTA RICA
+http://tvpremiumhd.com/lista-gratuita/psi2/10341.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Repretel_11_actual.png/120px-Repretel_11_actual.png" group-title="TV COSTA RICA",CR: Canal 11
+http://tvpremiumhd.com/lista-gratuita/psi2/10337.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 2" tvg-logo="http://visionzn.com/images/canal21.png" group-title="TV COSTA RICA",CR: Canal 2
+http://tvpremiumhd.com/lista-gratuita/psi2/10339.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="TV COSTA RICA",CR: Canal 4
+http://tvpremiumhd.com/lista-gratuita/psi2/10338.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/1024px-Repretel_6_logo.png" group-title="TV COSTA RICA",CR: Canal 6
+http://tvpremiumhd.com/lista-gratuita/psi2/10336.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: 88 Stereo TV" tvg-logo="http://cdn-radiotime-logos.tunein.com/s10749q.png" group-title="TV COSTA RICA",CR: 88 Stereo TV
+http://tvpremiumhd.com/lista-gratuita/psi2/8319.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Colosal TV" tvg-logo="https://ulango.tv/uploads/channels/110773/logo_colosal%20tv1.png" group-title="TV COSTA RICA",CR: Colosal TV
+http://tvpremiumhd.com/lista-gratuita/psi2/8320.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: Tele UNO" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica.png" group-title="TV COSTA RICA",CR: Tele UNO
+http://tvpremiumhd.com/lista-gratuita/psi2/8317.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: TicaVisión" tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2017/05/Sin-ti%CC%81tulo-2.png" group-title="TV COSTA RICA",CR: TicaVisión
+http://tvpremiumhd.com/lista-gratuita/psi2/8316.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR: TV SUR CANAL 9" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tv-sur-canal-9.png" group-title="TV COSTA RICA",CR: TV SUR CANAL 9
+http://tvpremiumhd.com/lista-gratuita/psi2/8318.ts
+#EXTINF:-1 tvg-id="" tvg-name="• ● ★ SPAIN CANALES ★ ● •" tvg-logo="" group-title="TV ESPAÑA",• ● ★ TV ESPAÑA ★ ● •
+http://tvpremiumhd.com/lista-gratuita/psi2/6242.ts
+http://tvpremiumhd.com/lista-gratuita/psi2/6242.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar+ Disney" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar+ Disney
+http://tvpremiumhd.com/lista-gratuita/psi2/10913.ts
+#EXTINF:-1 tvg-id="ES: HD (1080P) [dual audio]" tvg-name="ES: HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10909.ts
+#EXTINF:-1 tvg-id="ES:" tvg-name="ES:" tvg-logo="" group-title="TV ESPAÑA",ES:
+http://tvpremiumhd.com/lista-gratuita/psi2/10908.ts
+#EXTINF:-1 tvg-id="ES: SD" tvg-name="ES: SD" tvg-logo="" group-title="TV ESPAÑA",ES: SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10907.ts
+#EXTINF:-1 tvg-id="ES: AE" tvg-name="ES: A&E" tvg-logo="" group-title="TV ESPAÑA",ES: A&E
+http://tvpremiumhd.com/lista-gratuita/psi2/10905.ts
+#EXTINF:-1 tvg-id="ES: A3series HD" tvg-name="ES: A3series HD" tvg-logo="" group-title="TV ESPAÑA",ES: A3series HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10906.ts
+#EXTINF:-1 tvg-id="ES: AMC HD (1080P) [dual audio]" tvg-name="ES: AMC HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: AMC HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10904.ts
+#EXTINF:-1 tvg-id="ES: AMC HD (720p)" tvg-name="ES: AMC HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: AMC HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10903.ts
+#EXTINF:-1 tvg-id="ES: Antena 3 HD  (1080P)" tvg-name="ES: Antena 3 HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Antena 3 HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10902.ts
+#EXTINF:-1 tvg-id="ES: Antena 3 HD (720p)" tvg-name="ES: Antena 3 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Antena 3 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10901.ts
+#EXTINF:-1 tvg-id="ES: Antena 3 SD" tvg-name="ES: Antena 3 SD" tvg-logo="" group-title="TV ESPAÑA",ES: Antena 3 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10900.ts
+#EXTINF:-1 tvg-id="ES: AXN HD (1080P) [dual audio]" tvg-name="ES: AXN HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: AXN HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10899.ts
+#EXTINF:-1 tvg-id="ES: AXN HD (720p)" tvg-name="ES: AXN HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: AXN HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10898.ts
+#EXTINF:-1 tvg-id="ES: AXN SD" tvg-name="ES: AXN SD" tvg-logo="" group-title="TV ESPAÑA",ES: AXN SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10897.ts
+#EXTINF:-1 tvg-id="ES: AXN White HD (1080P) [dual audio]" tvg-name="ES: AXN White HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: AXN White HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10896.ts
+#EXTINF:-1 tvg-id="ES: AXN White HD (720p)" tvg-name="ES: AXN White HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: AXN White HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10895.ts
+#EXTINF:-1 tvg-id="ES: AXN White SD" tvg-name="ES: AXN White SD" tvg-logo="" group-title="TV ESPAÑA",ES: AXN White SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10894.ts
+#EXTINF:-1 tvg-id="ES: BeMad TV HD (1080P)" tvg-name="ES: BeMad TV HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: BeMad TV HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10893.ts
+#EXTINF:-1 tvg-id="ES: BeMad TV HD (720P)" tvg-name="ES: BeMad TV HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: BeMad TV HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10892.ts
+#EXTINF:-1 tvg-id="ES: Calle 13" tvg-name="ES: Calle 13" tvg-logo="" group-title="TV ESPAÑA",ES: Calle 13
+http://tvpremiumhd.com/lista-gratuita/psi2/10890.ts
+#EXTINF:-1 tvg-id="ES: Calle 13 HD (1080P) [dual audio]" tvg-name="ES: Calle 13 HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Calle 13 HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10891.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES: Canal Cocina" tvg-logo="" group-title="TV ESPAÑA",ES: Canal Cocina
+http://tvpremiumhd.com/lista-gratuita/psi2/10889.ts
+#EXTINF:-1 tvg-id="ES: Caza y Pesca HD (1080P) [dual audio]" tvg-name="ES: Caza y Pesca HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Caza y Pesca HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10888.ts
+#EXTINF:-1 tvg-id="ES: Caza y Pesca HD (720p)" tvg-name="ES: Caza y Pesca HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Caza y Pesca HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10887.ts
+#EXTINF:-1 tvg-id="ES: Comedy Central HD (1080P) [dual audio]" tvg-name="ES: Comedy Central HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Comedy Central HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10886.ts
+#EXTINF:-1 tvg-id="ES: Comedy Central HD (720p)" tvg-name="ES: Comedy Central HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Comedy Central HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10885.ts
+#EXTINF:-1 tvg-id="ES: Comedy Central SD" tvg-name="ES: Comedy Central SD" tvg-logo="" group-title="TV ESPAÑA",ES: Comedy Central SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10884.ts
+#EXTINF:-1 tvg-id="ES: Cosmo TV HD (1080P) [dual audio]" tvg-name="ES: Cosmo TV HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Cosmo TV HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10883.ts
+#EXTINF:-1 tvg-id="ES: Cosmo TV HD (720p)" tvg-name="ES: Cosmo TV HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Cosmo TV HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10882.ts
+#EXTINF:-1 tvg-id="ES: Cosmo TV SD" tvg-name="ES: Cosmo TV SD" tvg-logo="" group-title="TV ESPAÑA",ES: Cosmo TV SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10881.ts
+#EXTINF:-1 tvg-id="ES: Crime & Investigation [dual audio]" tvg-name="ES: Crime & Investigation [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Crime & Investigation [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10880.ts
+#EXTINF:-1 tvg-id="ES: Cuatro HD (1080P) [dual audio]" tvg-name="ES: Cuatro HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Cuatro HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10879.ts
+#EXTINF:-1 tvg-id="ES: Cuatro HD (720p)" tvg-name="ES: Cuatro HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Cuatro HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10878.ts
+#EXTINF:-1 tvg-id="ES: Discovery Channel HD (720p)" tvg-name="ES: Discovery Channel (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Discovery Channel (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10876.ts
+#EXTINF:-1 tvg-id="ES: Discovery Channel HD (1080P) [dual audio]" tvg-name="ES: Discovery Channel HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Discovery Channel HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10877.ts
+#EXTINF:-1 tvg-id="ES: Discovery Channel SD" tvg-name="ES: Discovery Channel SD" tvg-logo="" group-title="TV ESPAÑA",ES: Discovery Channel SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10875.ts
+#EXTINF:-1 tvg-id="ES: Discovery Max" tvg-name="ES: Discovery Max" tvg-logo="" group-title="TV ESPAÑA",ES: Discovery Max
+http://tvpremiumhd.com/lista-gratuita/psi2/10874.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DW en Espa" tvg-logo="" group-title="TV ESPAÑA",ES: DW en Espa
+http://tvpremiumhd.com/lista-gratuita/psi2/10873.ts
+#EXTINF:-1 tvg-id="ES: El Garaje TV" tvg-name="ES: El Garaje TV" tvg-logo="" group-title="TV ESPAÑA",ES: El Garaje TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10872.ts
+#EXTINF:-1 tvg-id="ES: Fox HD (1080P) [dual audio]" tvg-name="ES: Fox HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Fox HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10871.ts
+#EXTINF:-1 tvg-id="ES: Fox HD (720p)" tvg-name="ES: Fox HD (720P)  [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Fox HD (720P)  [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10870.ts
+#EXTINF:-1 tvg-id="ES: Fox SD" tvg-name="ES: Fox SD" tvg-logo="" group-title="TV ESPAÑA",ES: Fox SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10869.ts
+#EXTINF:-1 tvg-id="ES: Fox Life HD (1080P) [dual audio]" tvg-name="ES: Fox Life HD (1080P)  [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Fox Life HD (1080P)  [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10868.ts
+#EXTINF:-1 tvg-id="ES: Fox Life HD (720p)" tvg-name="ES: Fox Life HD (720P)  [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Fox Life HD (720P)  [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10867.ts
+#EXTINF:-1 tvg-id="ES: Fox Life SD" tvg-name="ES: Fox Life SD" tvg-logo="" group-title="TV ESPAÑA",ES: Fox Life SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10866.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hispan TV" tvg-logo="" group-title="TV ESPAÑA",ES: Hispan TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10865.ts
+#EXTINF:-1 tvg-id="ES: Historia HD" tvg-name="ES: Historia HD" tvg-logo="" group-title="TV ESPAÑA",ES: Historia HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10864.ts
+#EXTINF:-1 tvg-id="ES: Historia HD (720p)" tvg-name="ES: Historia HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Historia HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10863.ts
+#EXTINF:-1 tvg-id="ES: Hollywood HD (1080P) [dual audio]" tvg-name="ES: Hollywood HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Hollywood HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10862.ts
+#EXTINF:-1 tvg-id="ES: Hollywood HD (720P)" tvg-name="ES: Hollywood HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Hollywood HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10861.ts
+#EXTINF:-1 tvg-id="ES: LA 1" tvg-name="ES: LA 1" tvg-logo="" group-title="TV ESPAÑA",ES: LA 1
+http://tvpremiumhd.com/lista-gratuita/psi2/10860.ts
+#EXTINF:-1 tvg-id="ES: LA 1 HD (720p)" tvg-name="ES: LA 1 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: LA 1 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10859.ts
+#EXTINF:-1 tvg-id="ES: LA 1 SD" tvg-name="ES: LA 1 SD" tvg-logo="" group-title="TV ESPAÑA",ES: LA 1 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10858.ts
+#EXTINF:-1 tvg-id="ES: LA 2" tvg-name="ES: LA 2" tvg-logo="" group-title="TV ESPAÑA",ES: LA 2
+http://tvpremiumhd.com/lista-gratuita/psi2/10857.ts
+#EXTINF:-1 tvg-id="ES: La Sexta HD (1080P) [dual audio]" tvg-name="ES: La Sexta HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: La Sexta HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10856.ts
+#EXTINF:-1 tvg-id="ES: La Sexta HD (720p)" tvg-name="ES: La Sexta HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: La Sexta HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10855.ts
+#EXTINF:-1 tvg-id="ES: La Sexta SD" tvg-name="ES: La Sexta SD" tvg-logo="" group-title="TV ESPAÑA",ES: La Sexta SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10854.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LTC" tvg-logo="" group-title="TV ESPAÑA",ES: LTC
+http://tvpremiumhd.com/lista-gratuita/psi2/10853.ts
+#EXTINF:-1 tvg-id="ES: Mega HD" tvg-name="ES: Mega HD" tvg-logo="" group-title="TV ESPAÑA",ES: Mega HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10852.ts
+#EXTINF:-1 tvg-id="ES: Mega HD (720p)" tvg-name="ES: Mega HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Mega HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10851.ts
+#EXTINF:-1 tvg-id="ES: Mega SD" tvg-name="ES: Mega SD" tvg-logo="" group-title="TV ESPAÑA",ES: Mega SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10850.ts
+#EXTINF:-1 tvg-id="ES: Mezzo Live HD (1080P)" tvg-name="ES: Mezzo Live HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Mezzo Live HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10849.ts
+#EXTINF:-1 tvg-id="ES: Mezzo Live HD (720p)" tvg-name="ES: Mezzo Live HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Mezzo Live HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10848.ts
+#EXTINF:-1 tvg-id="ES: Movistar  Accion HD (1080P) [dual audio]" tvg-name="ES: Movistar  Accion HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Accion HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10847.ts
+#EXTINF:-1 tvg-id="ES: Movistar  Accion HD (720p)" tvg-name="ES: Movistar  Accion HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Accion HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10846.ts
+#EXTINF:-1 tvg-id="ES: Movistar  Accion SD" tvg-name="ES: Movistar  Accion SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Accion SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10845.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Cine N" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Cine N
+http://tvpremiumhd.com/lista-gratuita/psi2/10844.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Comedia HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10843.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Comedia HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10842.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Comedia SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10841.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Dcine HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Dcine HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10840.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Dcine HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Dcine HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10839.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Dcine SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Dcine SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10838.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Estrenos HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10837.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Estrenos HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10836.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Estrenos SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10835.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10834.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10833.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10832.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series Xtra HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series Xtra HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10831.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series Xtra HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series Xtra HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10830.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Series Xtra SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Series Xtra SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10829.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Xtra HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Xtra HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10828.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Xtra HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Xtra HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10827.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Xtra" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Xtra
+http://tvpremiumhd.com/lista-gratuita/psi2/10826.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV Espana" tvg-logo="" group-title="TV ESPAÑA",ES: MTV Espana
+http://tvpremiumhd.com/lista-gratuita/psi2/10825.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Nat Geo Wild HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10824.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Nat Geo Wild HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild SD" tvg-logo="" group-title="TV ESPAÑA",ES: Nat Geo Wild SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10822.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: National Geoghraphic HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10821.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: National Geoghraphic HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10820.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geoghraphic SD" tvg-logo="" group-title="TV ESPAÑA",ES: National Geoghraphic SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10819.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea HD" tvg-logo="" group-title="TV ESPAÑA",ES: Odisea HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10818.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Odisea HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10817.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea SD" tvg-logo="" group-title="TV ESPAÑA",ES: Odisea SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10816.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="TV ESPAÑA",ES: Paramount Channel
+http://tvpremiumhd.com/lista-gratuita/psi2/10815.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance TV" tvg-logo="" group-title="TV ESPAÑA",ES: Sundance TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10814.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: SyFy HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10813.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: SYFY HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10812.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy SD" tvg-logo="" group-title="TV ESPAÑA",ES: SyFy SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10811.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: TCM HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10810.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: TCM HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10809.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD" tvg-logo="" group-title="TV ESPAÑA",ES: TCM SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Telecinco HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10807.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Telecinco HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10806.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco SD" tvg-logo="" group-title="TV ESPAÑA",ES: Telecinco SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10805.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: TNT HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10804.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: TNT HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10803.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT SD" tvg-logo="" group-title="TV ESPAÑA",ES: TNT SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10802.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Toros HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10801.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Toros HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10800.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Toros" tvg-logo="" group-title="TV ESPAÑA",ES: Toros
+http://tvpremiumhd.com/lista-gratuita/psi2/10799.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Trece" tvg-logo="" group-title="TV ESPAÑA",ES: Trece
+http://tvpremiumhd.com/lista-gratuita/psi2/10798.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Viajar HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10797.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Viajar HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10796.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar SD" tvg-logo="" group-title="TV ESPAÑA",ES: Viajar SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10795.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: >>> DEPORTES <<<" tvg-logo="" group-title="TV ESPAÑA",ES: >>> DEPORTES <<<
+http://tvpremiumhd.com/lista-gratuita/psi2/10794.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="" group-title="TV ESPAÑA",ES: Barca TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10793.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10792.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10791.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports SD" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10790.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports LaLiga HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports LaLiga HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10789.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports LaLiga HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports LaLiga HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10788.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports LaLiga SD" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports LaLiga SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10787.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Eurosport 1 HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10786.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 HD (720P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Eurosport 1 HD (720P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10785.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 1 SD" tvg-logo="" group-title="TV ESPAÑA",ES: Eurosport 1 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10784.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2 HD" tvg-logo="" group-title="TV ESPAÑA",ES: Eurosport 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10783.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Eurosport 2 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10782.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol HD" tvg-logo="" group-title="TV ESPAÑA",ES: Gol HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10781.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Gol HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10780.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol SD" tvg-logo="" group-title="TV ESPAÑA",ES: Gol SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10779.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: La Liga TV BAR HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10778.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: La Liga TV BAR HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10777.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV BAR SD" tvg-logo="" group-title="TV ESPAÑA",ES: La Liga TV BAR SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10776.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV FHD" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/10774.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV HD (720)" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV HD (720)
+http://tvpremiumhd.com/lista-gratuita/psi2/10775.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV SD" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10773.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 1 HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10772.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 1 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10771.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 1 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10770.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 2 HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 2 HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10769.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 2 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 2 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10768.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 2 SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Deportes 2 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10767.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  eSports HD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  eSports HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10766.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Formula 1 HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Formula 1 HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10765.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Formula 1 HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Formula 1 HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10764.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Formula 1 SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Formula 1 SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10763.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Futbol HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Futbol HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10762.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Futbol HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Futbol HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10761.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Futbol SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Futbol SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10760.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Golf" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Golf
+http://tvpremiumhd.com/lista-gratuita/psi2/10758.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Golf HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Golf HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10759.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Moto GP HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Moto GP HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10757.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Moto GP HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Moto GP HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10756.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Moto GP SD" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Moto GP SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10755.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid HD" tvg-logo="" group-title="TV ESPAÑA",ES: Real Madrid HD
+http://tvpremiumhd.com/lista-gratuita/psi2/10754.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Real Madrid HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10753.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid SD" tvg-logo="" group-title="TV ESPAÑA",ES: Real Madrid SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10752.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sevilla FC" tvg-logo="" group-title="TV ESPAÑA",ES: Sevilla FC
+http://tvpremiumhd.com/lista-gratuita/psi2/10751.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte" tvg-logo="" group-title="TV ESPAÑA",ES: Teledeporte
+http://tvpremiumhd.com/lista-gratuita/psi2/10749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte HD (1080P)" tvg-logo="" group-title="TV ESPAÑA",ES: Teledeporte HD (1080P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10750.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teledeporte SD" tvg-logo="" group-title="TV ESPAÑA",ES: Teledeporte SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10748.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: >>> INFANTIL <<<" tvg-logo="" group-title="TV ESPAÑA",ES: >>> INFANTIL <<<
+http://tvpremiumhd.com/lista-gratuita/psi2/10747.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Baby TV [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10746.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="" group-title="TV ESPAÑA",ES: Boing
+http://tvpremiumhd.com/lista-gratuita/psi2/10745.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda" tvg-logo="" group-title="TV ESPAÑA",ES: Canal Panda
+http://tvpremiumhd.com/lista-gratuita/psi2/10744.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Disney Channel HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10743.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel HD (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Disney Channel HD (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10742.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Channel SD" tvg-logo="" group-title="TV ESPAÑA",ES: Disney Channel SD
+http://tvpremiumhd.com/lista-gratuita/psi2/10741.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Disney Junior [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10740.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney XD" tvg-logo="" group-title="TV ESPAÑA",ES: Disney XD
+http://tvpremiumhd.com/lista-gratuita/psi2/10739.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox" tvg-logo="" group-title="TV ESPAÑA",ES: Neox
+http://tvpremiumhd.com/lista-gratuita/psi2/10735.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nick JR [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Nick JR [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10738.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon [trial audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Nickelodeon [trial audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10736.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nickelodeon HD (1080P) [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Nickelodeon HD (1080P) [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10737.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Azul" tvg-logo="" group-title="TV ESPAÑA",ES: Onda Azul
+http://tvpremiumhd.com/lista-gratuita/psi2/10734.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: >>> VARIOS <<<" tvg-logo="" group-title="TV ESPAÑA",ES: >>> VARIOS <<<
+http://tvpremiumhd.com/lista-gratuita/psi2/10733.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H" tvg-logo="" group-title="TV ESPAÑA",ES: 24H
+http://tvpremiumhd.com/lista-gratuita/psi2/10732.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 CAT [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: 3/24 CAT [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 33 CAT" tvg-logo="" group-title="TV ESPAÑA",ES: 33 CAT
+http://tvpremiumhd.com/lista-gratuita/psi2/10731.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 TV Murcia" tvg-logo="" group-title="TV ESPAÑA",ES: 7 TV Murcia
+http://tvpremiumhd.com/lista-gratuita/psi2/10730.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 8TV [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: 8TV [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10690.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="TV ESPAÑA",ES: Andalucia TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10729.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="" group-title="TV ESPAÑA",ES: Aragon TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10728.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Betis TV" tvg-logo="" group-title="TV ESPAÑA",ES: Betis TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Costa TV" tvg-logo="" group-title="TV ESPAÑA",ES: Canal Costa TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10726.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento" tvg-logo="" group-title="TV ESPAÑA",ES: Canal Parlamento
+http://tvpremiumhd.com/lista-gratuita/psi2/10725.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur" tvg-logo="" group-title="TV ESPAÑA",ES: Canal Sur
+http://tvpremiumhd.com/lista-gratuita/psi2/10724.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Castilla La Mancha Media" tvg-logo="" group-title="TV ESPAÑA",ES: Castilla La Mancha Media
+http://tvpremiumhd.com/lista-gratuita/psi2/10723.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan TVE [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Clan TVE [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10722.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Classica" tvg-logo="" group-title="TV ESPAÑA",ES: Classica
+http://tvpremiumhd.com/lista-gratuita/psi2/10721.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dark" tvg-logo="" group-title="TV ESPAÑA",ES: Dark
+http://tvpremiumhd.com/lista-gratuita/psi2/10720.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="" group-title="TV ESPAÑA",ES: Decasa
+http://tvpremiumhd.com/lista-gratuita/psi2/10719.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity" tvg-logo="" group-title="TV ESPAÑA",ES: Divinity
+http://tvpremiumhd.com/lista-gratuita/psi2/10718.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dkiss" tvg-logo="" group-title="TV ESPAÑA",ES: Dkiss
+http://tvpremiumhd.com/lista-gratuita/psi2/10717.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Energy [dual audio]" tvg-logo="" group-title="TV ESPAÑA",ES: Energy [dual audio]
+http://tvpremiumhd.com/lista-gratuita/psi2/10716.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Esport 3 CAT" tvg-logo="" group-title="TV ESPAÑA",ES: Esport 3 CAT
+http://tvpremiumhd.com/lista-gratuita/psi2/10715.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB Sat [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: ETB Sat [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Euronews HD en Espa" tvg-logo="" group-title="TV ESPAÑA",ES: Euronews HD en Espa
+http://tvpremiumhd.com/lista-gratuita/psi2/10714.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Extremadura TV" tvg-logo="" group-title="TV ESPAÑA",ES: Extremadura TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="TV ESPAÑA",ES: FDF
+http://tvpremiumhd.com/lista-gratuita/psi2/10712.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV" tvg-logo="" group-title="TV ESPAÑA",ES: Galicia TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gan Hermano" tvg-logo="" group-title="TV ESPAÑA",ES: Gan Hermano
+http://tvpremiumhd.com/lista-gratuita/psi2/10710.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB3 HD [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: IB3 HD [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10688.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="" group-title="TV ESPAÑA",ES: Iberalia
+http://tvpremiumhd.com/lista-gratuita/psi2/10709.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: intereconomia" tvg-logo="" group-title="TV ESPAÑA",ES: intereconomia
+http://tvpremiumhd.com/lista-gratuita/psi2/10708.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 8 Mediterr" tvg-logo="" group-title="TV ESPAÑA",ES: La 8 Mediterr
+http://tvpremiumhd.com/lista-gratuita/psi2/10707.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Otra" tvg-logo="" group-title="TV ESPAÑA",ES: La Otra
+http://tvpremiumhd.com/lista-gratuita/psi2/10706.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Lancelot TV [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: Lancelot TV [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10687.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Levante TV" tvg-logo="" group-title="TV ESPAÑA",ES: Levante TV
+http://tvpremiumhd.com/lista-gratuita/psi2/10705.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Libertad Digital" tvg-logo="" group-title="TV ESPAÑA",ES: Libertad Digital
+http://tvpremiumhd.com/lista-gratuita/psi2/10704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nonstopeople" tvg-logo="" group-title="TV ESPAÑA",ES: Nonstopeople
+http://tvpremiumhd.com/lista-gratuita/psi2/10703.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova" tvg-logo="" group-title="TV ESPAÑA",ES: Nova
+http://tvpremiumhd.com/lista-gratuita/psi2/10701.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova (720P)" tvg-logo="" group-title="TV ESPAÑA",ES: Nova (720P)
+http://tvpremiumhd.com/lista-gratuita/psi2/10702.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT HD en Espa" tvg-logo="" group-title="TV ESPAÑA",ES: RT HD en Espa
+http://tvpremiumhd.com/lista-gratuita/psi2/10700.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Super3" tvg-logo="" group-title="TV ESPAÑA",ES: Super3
+http://tvpremiumhd.com/lista-gratuita/psi2/10699.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleMadrid" tvg-logo="" group-title="TV ESPAÑA",ES: TeleMadrid
+http://tvpremiumhd.com/lista-gratuita/psi2/10698.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telesur" tvg-logo="" group-title="TV ESPAÑA",ES: Telesur
+http://tvpremiumhd.com/lista-gratuita/psi2/10697.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="" group-title="TV ESPAÑA",ES: TEN
+http://tvpremiumhd.com/lista-gratuita/psi2/10696.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="" group-title="TV ESPAÑA",ES: TV Canaria
+http://tvpremiumhd.com/lista-gratuita/psi2/10695.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3. CAT HD [ext]" tvg-logo="" group-title="TV ESPAÑA",ES: TV3. CAT HD [ext]
+http://tvpremiumhd.com/lista-gratuita/psi2/10686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1" tvg-logo="" group-title="TV ESPAÑA",ES: VH1
+http://tvpremiumhd.com/lista-gratuita/psi2/10694.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VH1 Classic" tvg-logo="" group-title="TV ESPAÑA",ES: VH1 Classic
+http://tvpremiumhd.com/lista-gratuita/psi2/10693.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="" group-title="TV ESPAÑA",ES: XTRM
+http://tvpremiumhd.com/lista-gratuita/psi2/10692.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: >>> PPV EVENTOS <<<" tvg-logo="" group-title="TV ESPAÑA",ES: >>> PPV EVENTOS <<<
+http://tvpremiumhd.com/lista-gratuita/psi2/10638.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 1 HD (720P) [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 1 HD (720P) [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10637.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 1 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 1 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10636.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 1 SD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 1 SD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10635.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 2 HD (720P) [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 2 HD (720P) [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10634.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 2 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 2 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 3 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 3 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 4 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 4 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10631.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 5 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 5 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10630.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein LaLiga Max 6 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein LaLiga Max 6 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10629.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 1 HD (720P) [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 1 HD (720P) [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10628.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 1 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 1 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10627.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 2 HD (720P) [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 2 HD (720P) [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10626.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 2 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 2 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10625.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 3 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 3 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10624.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 4 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 4 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10623.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 5 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 5 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10622.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 6 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 6 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10621.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 7 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 7 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10620.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sports Max 8 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Bein Sports Max 8 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV Multi 1 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV Multi 1 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10618.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV Multi 2 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV Multi 2 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV Multi 3 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV Multi 3 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10616.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 1|2|3 TV Multi 4 HD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: LaLiga 1|2|3 TV Multi 4 HD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10615.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Partidazo HD 1080P [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Partidazo HD 1080P [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10614.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Partidazo HD 720P [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Partidazo HD 720P [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10613.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Partidazo SD [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Movistar  Partidazo SD [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10612.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte 1 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multideporte 1 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10611.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte 2 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multideporte 2 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10610.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte 3 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multideporte 3 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10609.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte 4 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multideporte 4 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10608.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multideporte 5 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multideporte 5 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10607.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multifutbol 1 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multifutbol 1 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10606.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multifutbol 2 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multifutbol 2 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multifutbol 3 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multifutbol 3 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10604.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Multifutbol 4 [solo evento en vivo]" tvg-logo="" group-title="TV ESPAÑA",ES: Multifutbol 4 [solo evento en vivo]
+http://tvpremiumhd.com/lista-gratuita/psi2/10603.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="" group-title="TV BRASIL",TV BRASIL
+http://tvpremiumhd.com/lista-gratuita/psi2/3439.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="" group-title="TV BRASIL",BR: A&E
+http://tvpremiumhd.com/lista-gratuita/psi2/5852.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="" group-title="TV BRASIL",BR: ANIMAL PLANET
+http://tvpremiumhd.com/lista-gratuita/psi2/5851.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="" group-title="TV BRASIL",BR: AXN
+http://tvpremiumhd.com/lista-gratuita/psi2/5850.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="" group-title="TV BRASIL",BR: BAND NEWS
+http://tvpremiumhd.com/lista-gratuita/psi2/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS" tvg-logo="" group-title="TV BRASIL",BR: BAND SPORTS
+http://tvpremiumhd.com/lista-gratuita/psi2/5848.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang" tvg-logo="" group-title="TV BRASIL",BR: Boomerang
+http://tvpremiumhd.com/lista-gratuita/psi2/5847.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Sony" tvg-logo="" group-title="TV BRASIL",BR: Canal Sony
+http://tvpremiumhd.com/lista-gratuita/psi2/5846.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network" tvg-logo="" group-title="TV BRASIL",BR: Cartoon Network
+http://tvpremiumhd.com/lista-gratuita/psi2/5845.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX" tvg-logo="" group-title="TV BRASIL",BR: CINEMAX
+http://tvpremiumhd.com/lista-gratuita/psi2/5844.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate" tvg-logo="" group-title="TV BRASIL",BR: Combate
+http://tvpremiumhd.com/lista-gratuita/psi2/5843.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY" tvg-logo="" group-title="TV BRASIL",BR: DISCOVERY
+http://tvpremiumhd.com/lista-gratuita/psi2/5842.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Civilization" tvg-logo="" group-title="TV BRASIL",BR: Discovery Civilization
+http://tvpremiumhd.com/lista-gratuita/psi2/5841.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Home Health" tvg-logo="" group-title="TV BRASIL",BR: Discovery Home Health
+http://tvpremiumhd.com/lista-gratuita/psi2/5840.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="" group-title="TV BRASIL",BR: COMEDY CENTRAL
+http://tvpremiumhd.com/lista-gratuita/psi2/5839.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Turbo" tvg-logo="" group-title="TV BRASIL",BR: Discovery Turbo
+http://tvpremiumhd.com/lista-gratuita/psi2/5838.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney" tvg-logo="" group-title="TV BRASIL",BR: Disney
+http://tvpremiumhd.com/lista-gratuita/psi2/5837.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Jr" tvg-logo="" group-title="TV BRASIL",BR: Disney Jr
+http://tvpremiumhd.com/lista-gratuita/psi2/5836.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD" tvg-logo="" group-title="TV BRASIL",BR: Disney XD
+http://tvpremiumhd.com/lista-gratuita/psi2/5835.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil" tvg-logo="" group-title="TV BRASIL",BR: ESPN Brasil
+http://tvpremiumhd.com/lista-gratuita/psi2/5834.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX" tvg-logo="" group-title="TV BRASIL",BR: FOX
+http://tvpremiumhd.com/lista-gratuita/psi2/5833.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Life" tvg-logo="" group-title="TV BRASIL",BR: Fox Life
+http://tvpremiumhd.com/lista-gratuita/psi2/5832.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2" tvg-logo="" group-title="TV BRASIL",BR: H2
+http://tvpremiumhd.com/lista-gratuita/psi2/5831.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO" tvg-logo="" group-title="TV BRASIL",BR: HBO
+http://tvpremiumhd.com/lista-gratuita/psi2/5830.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2" tvg-logo="" group-title="TV BRASIL",BR: HBO 2
+http://tvpremiumhd.com/lista-gratuita/psi2/5829.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family" tvg-logo="" group-title="TV BRASIL",BR: HBO Family
+http://tvpremiumhd.com/lista-gratuita/psi2/5828.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Plus" tvg-logo="" group-title="TV BRASIL",BR: HBO Plus
+http://tvpremiumhd.com/lista-gratuita/psi2/5827.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: History" tvg-logo="" group-title="TV BRASIL",BR: History
+http://tvpremiumhd.com/lista-gratuita/psi2/5826.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic" tvg-logo="" group-title="TV BRASIL",BR: National Geographic
+http://tvpremiumhd.com/lista-gratuita/psi2/5825.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick" tvg-logo="" group-title="TV BRASIL",BR: Nick
+http://tvpremiumhd.com/lista-gratuita/psi2/5824.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Jr" tvg-logo="" group-title="TV BRASIL",BR: Nick Jr
+http://tvpremiumhd.com/lista-gratuita/psi2/5823.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space Brasil" tvg-logo="" group-title="TV BRASIL",BR: Space Brasil
+http://tvpremiumhd.com/lista-gratuita/psi2/5822.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sport TV" tvg-logo="" group-title="TV BRASIL",BR: Sport TV
+http://tvpremiumhd.com/lista-gratuita/psi2/5821.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORT TV 2" tvg-logo="" group-title="TV BRASIL",BR: SPORT TV 2
+http://tvpremiumhd.com/lista-gratuita/psi2/5820.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORT TV 3" tvg-logo="" group-title="TV BRASIL",BR: SPORT TV 3
+http://tvpremiumhd.com/lista-gratuita/psi2/5819.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Syfy" tvg-logo="" group-title="TV BRASIL",BR: Syfy
+http://tvpremiumhd.com/lista-gratuita/psi2/5817.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS Brasil" tvg-logo="" group-title="TV BRASIL",BR: TBS Brasil
+http://tvpremiumhd.com/lista-gratuita/psi2/5816.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action" tvg-logo="" group-title="TV BRASIL",BR: Telecine Action
+http://tvpremiumhd.com/lista-gratuita/psi2/5815.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult" tvg-logo="" group-title="TV BRASIL",BR: Telecine Cult
+http://tvpremiumhd.com/lista-gratuita/psi2/5814.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun" tvg-logo="" group-title="TV BRASIL",BR: Telecine Fun
+http://tvpremiumhd.com/lista-gratuita/psi2/5813.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca" tvg-logo="" group-title="TV BRASIL",BR: Telecine Pipoca
+http://tvpremiumhd.com/lista-gratuita/psi2/5812.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Premium" tvg-logo="" group-title="TV BRASIL",BR: Telecine Premium
+http://tvpremiumhd.com/lista-gratuita/psi2/5811.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch" tvg-logo="" group-title="TV BRASIL",BR: Telecine Touch
+http://tvpremiumhd.com/lista-gratuita/psi2/5810.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="" group-title="TV BRASIL",BR: TCM
+http://tvpremiumhd.com/lista-gratuita/psi2/5809.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Universal" tvg-logo="" group-title="TV BRASIL",BR: Universal
+http://tvpremiumhd.com/lista-gratuita/psi2/5808.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC" tvg-logo="" group-title="TV BRASIL",BR: TLC
+http://tvpremiumhd.com/lista-gratuita/psi2/5807.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="" group-title="TV BRASIL",BR: TNT
+http://tvpremiumhd.com/lista-gratuita/psi2/5806.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Series" tvg-logo="" group-title="TV BRASIL",BR: TNT Series
+http://tvpremiumhd.com/lista-gratuita/psi2/5805.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast" tvg-logo="" group-title="TV BRASIL",BR: Tooncast
+http://tvpremiumhd.com/lista-gratuita/psi2/5804.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="" group-title="TV BRASIL",BR: Globo SP
+http://tvpremiumhd.com/lista-gratuita/psi2/5803.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="" group-title="TV BRASIL",BR: Globo RJ
+http://tvpremiumhd.com/lista-gratuita/psi2/5802.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER" tvg-logo="" group-title="TV BRASIL",BR: WARNER
+http://tvpremiumhd.com/lista-gratuita/psi2/5801.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV USA" tvg-logo="" group-title="TV USA",TV USA
+http://tvpremiumhd.com/lista-gratuita/psi2/3438.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC HD" tvg-logo="" group-title="TV USA",USA | ABC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11888.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC NEWS HD" tvg-logo="" group-title="TV USA",USA | ABC NEWS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11887.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | AMC HD" tvg-logo="" group-title="TV USA",USA | AMC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11886.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | CARTOON NETWORK" tvg-logo="" group-title="TV USA",USA | CARTOON NETWORK
+http://tvpremiumhd.com/lista-gratuita/psi2/11885.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Sports Network HD" tvg-logo="" group-title="TV USA",USA | CBS Sports Network HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11884.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBSN HD" tvg-logo="" group-title="TV USA",USA | CBSN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11883.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC" tvg-logo="" group-title="TV USA",USA | CNBC
+http://tvpremiumhd.com/lista-gratuita/psi2/11882.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | DISCCOVERY HD" tvg-logo="" group-title="TV USA",USA | DISCCOVERY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11881.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Science HD" tvg-logo="" group-title="TV USA",USA | Discovery Science HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11880.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | DIY Network" tvg-logo="" group-title="TV USA",USA | DIY Network
+http://tvpremiumhd.com/lista-gratuita/psi2/11879.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN" tvg-logo="" group-title="TV USA",USA | ESPN
+http://tvpremiumhd.com/lista-gratuita/psi2/11878.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN 2" tvg-logo="" group-title="TV USA",USA | ESPN 2
+http://tvpremiumhd.com/lista-gratuita/psi2/11877.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN News US HD" tvg-logo="" group-title="TV USA",USA | ESPN News US HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11876.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN U HD" tvg-logo="" group-title="TV USA",USA | ESPN U HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11875.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fight HD" tvg-logo="" group-title="TV USA",USA | Fight HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11874.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FIGHT SPORT" tvg-logo="" group-title="TV USA",USA | FIGHT SPORT
+http://tvpremiumhd.com/lista-gratuita/psi2/11873.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Food Network HD" tvg-logo="" group-title="TV USA",USA | Food Network HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11872.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox HD" tvg-logo="" group-title="TV USA",USA | Fox HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11871.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox SPORTS 506 HD" tvg-logo="" group-title="TV USA",USA | Fox SPORTS 506 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11870.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOXX HD" tvg-logo="" group-title="TV USA",USA | FOXX HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11869.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FX HD" tvg-logo="" group-title="TV USA",USA | FX HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11868.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | FXX" tvg-logo="" group-title="TV USA",USA | FXX
+http://tvpremiumhd.com/lista-gratuita/psi2/11867.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | H2" tvg-logo="" group-title="TV USA",USA | H2
+http://tvpremiumhd.com/lista-gratuita/psi2/11866.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Comedy" tvg-logo="" group-title="TV USA",USA | HBO Comedy
+http://tvpremiumhd.com/lista-gratuita/psi2/11865.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO East" tvg-logo="" group-title="TV USA",USA | HBO East
+http://tvpremiumhd.com/lista-gratuita/psi2/11864.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO HD" tvg-logo="" group-title="TV USA",USA | HBO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11863.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Signature" tvg-logo="" group-title="TV USA",USA | HBO Signature
+http://tvpremiumhd.com/lista-gratuita/psi2/11862.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone" tvg-logo="" group-title="TV USA",USA | HBO Zone
+http://tvpremiumhd.com/lista-gratuita/psi2/11861.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | MBL HD" tvg-logo="" group-title="TV USA",USA | MBL HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11860.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | MLB Network" tvg-logo="" group-title="TV USA",USA | MLB Network
+http://tvpremiumhd.com/lista-gratuita/psi2/11859.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | MSNBC HD" tvg-logo="" group-title="TV USA",USA | MSNBC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11858.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | National Geographic" tvg-logo="" group-title="TV USA",USA | National Geographic
+http://tvpremiumhd.com/lista-gratuita/psi2/11857.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBA TV HD" tvg-logo="" group-title="TV USA",USA | NBA TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11856.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC" tvg-logo="" group-title="TV USA",USA | NBC
+http://tvpremiumhd.com/lista-gratuita/psi2/11855.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Golf" tvg-logo="" group-title="TV USA",USA | NBC Golf
+http://tvpremiumhd.com/lista-gratuita/psi2/11854.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN HD" tvg-logo="" group-title="TV USA",USA | NBCSN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11853.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Network 1" tvg-logo="" group-title="TV USA",USA | NFL Network 1
+http://tvpremiumhd.com/lista-gratuita/psi2/11852.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NFL Network HD" tvg-logo="" group-title="TV USA",USA | NFL Network HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11851.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Network" tvg-logo="" group-title="TV USA",USA | NHL Network
+http://tvpremiumhd.com/lista-gratuita/psi2/11850.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NICKELODEN HD" tvg-logo="" group-title="TV USA",USA | NICKELODEN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11849.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | OWN HD" tvg-logo="" group-title="TV USA",USA | OWN HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11848.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Arizona" tvg-logo="" group-title="TV USA",USA | PAC-12 Arizona
+http://tvpremiumhd.com/lista-gratuita/psi2/11847.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Bay Area" tvg-logo="" group-title="TV USA",USA | PAC-12 Bay Area
+http://tvpremiumhd.com/lista-gratuita/psi2/11846.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Los Angeles" tvg-logo="" group-title="TV USA",USA | PAC-12 Los Angeles
+http://tvpremiumhd.com/lista-gratuita/psi2/11845.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Oregon" tvg-logo="" group-title="TV USA",USA | PAC-12 Oregon
+http://tvpremiumhd.com/lista-gratuita/psi2/11844.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Washington" tvg-logo="" group-title="TV USA",USA | PAC-12 Washington
+http://tvpremiumhd.com/lista-gratuita/psi2/11843.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | SEC Network" tvg-logo="" group-title="TV USA",USA | SEC Network
+http://tvpremiumhd.com/lista-gratuita/psi2/11842.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Smile Of A Child" tvg-logo="" group-title="TV USA",USA | Smile Of A Child
+http://tvpremiumhd.com/lista-gratuita/psi2/11841.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | SPIKE HD" tvg-logo="" group-title="TV USA",USA | SPIKE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11840.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | TBS HD" tvg-logo="" group-title="TV USA",USA | TBS HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11839.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Tennis Channel HD" tvg-logo="" group-title="TV USA",USA | Tennis Channel HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11838.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | TLC HD" tvg-logo="" group-title="TV USA",USA | TLC HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11837.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Toon Kids" tvg-logo="" group-title="TV USA",USA | Toon Kids
+http://tvpremiumhd.com/lista-gratuita/psi2/11836.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight pass" tvg-logo="" group-title="TV USA",USA | UFC Fight pass
+http://tvpremiumhd.com/lista-gratuita/psi2/11835.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | USA Network HD" tvg-logo="" group-title="TV USA",USA | USA Network HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11834.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Versus HD" tvg-logo="" group-title="TV USA",USA | Versus HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11833.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE HD" tvg-logo="" group-title="TV USA",USA | WWE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11832.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Red Bull" tvg-logo="http://www.turkishtvmarket.info/wp-content/uploads/2016/10/red-bull-tv.png" group-title="TV USA",USA: Red Bull
+http://tvpremiumhd.com/lista-gratuita/psi2/10340.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY SPORTS FOOTBAL" tvg-logo="" group-title="TV USA",USA: SKY SPORTS FOOTBAL
+http://tvpremiumhd.com/lista-gratuita/psi2/8281.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Sport FHD" tvg-logo="" group-title="TV USA",USA: NBC Sport FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/8280.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel HD" tvg-logo="" group-title="TV USA",USA: Discovery Channel HD
+http://tvpremiumhd.com/lista-gratuita/psi2/8279.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fight network" tvg-logo="" group-title="TV USA",USA: Fight network
+http://tvpremiumhd.com/lista-gratuita/psi2/8282.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX" tvg-logo="" group-title="TV USA",USA: FX
+http://tvpremiumhd.com/lista-gratuita/psi2/5792.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports 1" tvg-logo="" group-title="TV USA",USA: Fox Sports 1
+http://tvpremiumhd.com/lista-gratuita/psi2/8283.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports 2" tvg-logo="" group-title="TV USA",USA: Fox Sports 2
+http://tvpremiumhd.com/lista-gratuita/psi2/8284.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Food Network" tvg-logo="" group-title="TV USA",USA: Food Network
+http://tvpremiumhd.com/lista-gratuita/psi2/5791.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Crime & Investigation" tvg-logo="" group-title="TV USA",USA: Crime & Investigation
+http://tvpremiumhd.com/lista-gratuita/psi2/5790.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Comedy Central" tvg-logo="" group-title="TV USA",USA: Comedy Central
+http://tvpremiumhd.com/lista-gratuita/psi2/5789.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox" tvg-logo="" group-title="TV USA",USA: Fox
+http://tvpremiumhd.com/lista-gratuita/psi2/5788.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Comedy" tvg-logo="" group-title="TV USA",USA: HBO Comedy
+http://tvpremiumhd.com/lista-gratuita/psi2/5787.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO East" tvg-logo="" group-title="TV USA",USA: HBO East
+http://tvpremiumhd.com/lista-gratuita/psi2/5786.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO HD" tvg-logo="" group-title="TV USA",USA: HBO HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5785.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Signature" tvg-logo="" group-title="TV USA",USA: HBO Signature
+http://tvpremiumhd.com/lista-gratuita/psi2/5784.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Zone" tvg-logo="" group-title="TV USA",USA: HBO Zone
+http://tvpremiumhd.com/lista-gratuita/psi2/5783.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TV HD" tvg-logo="" group-title="TV USA",USA: NBA TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5782.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="" group-title="TV USA",USA: A&E HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5777.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN" tvg-logo="" group-title="TV USA",USA: ESPN
+http://tvpremiumhd.com/lista-gratuita/psi2/5776.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN News HD" tvg-logo="" group-title="TV USA",USA: ESPN News HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5775.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE HD" tvg-logo="" group-title="TV USA",USA: WWE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5774.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Soccer" tvg-logo="" group-title="TV USA",USA: Fox Soccer
+http://tvpremiumhd.com/lista-gratuita/psi2/5781.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Golf" tvg-logo="" group-title="TV USA",USA: NBC Golf
+http://tvpremiumhd.com/lista-gratuita/psi2/5780.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY HD" tvg-logo="" group-title="TV USA",USA: SYFY HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5779.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="" group-title="TV USA",USA: TNT HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5778.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 5 Las Vegas HD" tvg-logo="" group-title="TV USA",USA: FOX 5 Las Vegas HD
+http://tvpremiumhd.com/lista-gratuita/psi2/5773.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: RT America" tvg-logo="" group-title="TV USA",USA: RT America
+http://tvpremiumhd.com/lista-gratuita/psi2/5772.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network" tvg-logo="" group-title="TV USA",USA: NFL Network
+http://tvpremiumhd.com/lista-gratuita/psi2/5771.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL Network" tvg-logo="" group-title="TV USA",USA: NHL Network
+http://tvpremiumhd.com/lista-gratuita/psi2/5770.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Fight pass" tvg-logo="" group-title="TV USA",USA: UFC Fight pass
+http://tvpremiumhd.com/lista-gratuita/psi2/5769.ts
+#EXTINF:-1 tvg-id="" tvg-name="●▄ ▆★ DEPORTES VARIOS ★▆ ▄●" tvg-logo="" group-title="DEPORTES",●▄ ▆★ DEPORTES VARIOS ★▆ ▄●
+http://tvpremiumhd.com/lista-gratuita/psi2/11794.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 1 HD" tvg-logo="" group-title="DEPORTES",DE | Sky Sport 1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11793.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport 2 HD" tvg-logo="" group-title="DEPORTES",DE | Sky Sport 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11792.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Austria HD" tvg-logo="" group-title="DEPORTES",DE | Sky Sport Austria HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11791.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="DEPORTES",DE | Sky Sport Bundesliga 1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11790.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport News HD" tvg-logo="" group-title="DEPORTES",DE | Sky Sport News HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11789.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Liga HD" tvg-logo="" group-title="DEPORTES",ES | Bein Liga HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11788.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bein Sport HD" tvg-logo="" group-title="DEPORTES",ES | Bein Sport HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11787.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Eurosport 1 FHD" tvg-logo="" group-title="DEPORTES",ES | Eurosport 1 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11786.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 2" tvg-logo="" group-title="DEPORTES",ES | EUROSPORT 2
+http://tvpremiumhd.com/lista-gratuita/psi2/11785.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Liga BAR HD" tvg-logo="" group-title="DEPORTES",ES | La Liga BAR HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11784.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga 123 FHD" tvg-logo="" group-title="DEPORTES",ES | LaLiga 123 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11783.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar  Deportes 2 FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar  Deportes 2 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11782.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 1 FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar Deportes 1 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11781.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar F1 FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar F1 FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11780.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Futbol FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar Futbol FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11779.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Golf FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar Golf FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11778.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Moto GP FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar Moto GP FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11777.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Partidazo FHD" tvg-logo="" group-title="DEPORTES",ES | Movistar Partidazo FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11776.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | Real Madrid TV FHD" tvg-logo="" group-title="DEPORTES",ES | Real Madrid TV FHD
+http://tvpremiumhd.com/lista-gratuita/psi2/11775.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | TELEDEPORTE HD" tvg-logo="" group-title="DEPORTES",ES | TELEDEPORTE HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11774.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES | TOROS TV HD" tvg-logo="" group-title="DEPORTES",ES | TOROS TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11773.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 1 HD" tvg-logo="" group-title="DEPORTES",FR | BeIN SPORTS 1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11772.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 2 HD" tvg-logo="" group-title="DEPORTES",FR | BeIN SPORTS 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11771.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 3 HD" tvg-logo="" group-title="DEPORTES",FR | BeIN SPORTS 3 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11770.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | EUROSPORT" tvg-logo="" group-title="DEPORTES",PT | EUROSPORT
+http://tvpremiumhd.com/lista-gratuita/psi2/11769.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | EUROSPORT 1 HD 1080" tvg-logo="" group-title="DEPORTES",PT | EUROSPORT 1 HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/11768.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | EUROSPORT 2 XTRA HD 1080" tvg-logo="" group-title="DEPORTES",PT | EUROSPORT 2 XTRA HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/11767.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV   HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV   HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11765.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV  HD 1080" tvg-logo="" group-title="DEPORTES",PT | SPORT TV  HD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/11766.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 1 HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV 1 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11764.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 2 HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV 2 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11763.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 3 HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV 3 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11762.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 4 HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV 4 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11761.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORT TV 5 HD" tvg-logo="" group-title="DEPORTES",PT | SPORT TV 5 HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11760.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT | SPORTING TV HD" tvg-logo="" group-title="DEPORTES",PT | SPORTING TV HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11759.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Premier Sports FHD 1080" tvg-logo="" group-title="DEPORTES",UK | Premier Sports FHD 1080
+http://tvpremiumhd.com/lista-gratuita/psi2/11758.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sport Arena HD" tvg-logo="" group-title="DEPORTES",UK | Sky Sport Arena HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11757.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sport Football HD" tvg-logo="" group-title="DEPORTES",UK | Sky Sport Football HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11756.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS ACTION" tvg-logo="" group-title="DEPORTES",UK | SKY SPORTS ACTION
+http://tvpremiumhd.com/lista-gratuita/psi2/11755.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS CRICKET" tvg-logo="" group-title="DEPORTES",UK | SKY SPORTS CRICKET
+http://tvpremiumhd.com/lista-gratuita/psi2/11754.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports F1 HD 1080p" tvg-logo="" group-title="DEPORTES",UK | Sky Sports F1 HD 1080p
+http://tvpremiumhd.com/lista-gratuita/psi2/11753.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS GOLF HD" tvg-logo="" group-title="DEPORTES",UK | SKY SPORTS GOLF HD
+http://tvpremiumhd.com/lista-gratuita/psi2/11752.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports Mix" tvg-logo="" group-title="DEPORTES",UK | Sky Sports Mix
+http://tvpremiumhd.com/lista-gratuita/psi2/11751.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports News HD 1080p" tvg-logo="" group-title="DEPORTES",UK | Sky Sports News HD 1080p
+http://tvpremiumhd.com/lista-gratuita/psi2/11750.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="DEPORTES",UK | SKY SPORTS PREMIER LEAGUE
+http://tvpremiumhd.com/lista-gratuita/psi2/11749.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sky Sports The Open" tvg-logo="" group-title="DEPORTES",UK | Sky Sports The Open
+http://tvpremiumhd.com/lista-gratuita/psi2/11748.ts
